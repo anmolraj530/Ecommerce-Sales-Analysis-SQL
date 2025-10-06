@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,Gender,Age,City,Region,Product_ID,Product_Name,Category,Quantity,Unit_Price,Total_Sales,Payment_Method,Unnamed_15
+ORD0001,24-12-2024,CUST503,Customer_204,Female,28,Ahmedabad,North,PROD79,Product_173,Books,6,1012.79,6076.74,Debit Card,40.88
+ORD0002,09-12-2024,CUST610,Customer_479,Other,46,Bangalore,South,PROD7,Product_164,Toys,7,462.78,3239.46,UPI,21.1
+ORD0003,22-05-2024,CUST722,Customer_399,Other,29,Kolkata,West,PROD31,Product_32,Books,1,1222.29,1222.29,Net Banking,84.75
+ORD0004,12-09-2025,CUST432,Customer_251,Female,33,Bangalore,East,PROD13,Product_157,Books,3,1078.02,3234.06,Credit Card,27.13
+ORD0005,20-08-2025,CUST457,Customer_432,Male,23,Hyderabad,South,PROD192,Product_139,Beauty,8,836.62,6692.96,Credit Card,85.09
+ORD0006,13-02-2024,CUST103,Customer_223,Male,44,Ahmedabad,East,PROD169,Product_10,Toys,7,167.03,1169.21,Cash on Delivery,16.63
+ORD0007,02-02-2023,CUST278,Customer_306,Female,25,Ahmedabad,West,PROD115,Product_81,Books,4,1473.87,5895.48,Cash on Delivery,56.91
+ORD0008,23-08-2023,CUST155,Customer_315,Male,30,Pune,East,PROD133,Product_13,Home Appliances,4,591.2,2364.8,UPI,29.31
+ORD0009,23-03-2024,CUST319,Customer_239,Male,41,Ahmedabad,South,PROD99,Product_152,Sports,4,1087.18,4348.72,Credit Card,6.46
+ORD0010,03-12-2023,CUST608,Customer_326,Male,22,Kolkata,East,PROD65,Product_81,Fashion,6,1652.08,9912.48,Debit Card,64.92
+ORD0011,30-08-2023,CUST713,Customer_15,Male,53,Chennai,West,PROD25,Product_136,Electronics,4,911.36,3645.44,Debit Card,1.22
+ORD0012,06-04-2025,CUST603,Customer_284,Other,54,Delhi,North,PROD130,Product_138,Toys,10,271.66,2716.6,Credit Card,23.37
+ORD0013,31-05-2023,CUST344,Customer_54,Male,63,Ahmedabad,North,PROD37,Product_190,Fashion,8,324.02,2592.16,UPI,36.84
+ORD0014,19-09-2023,CUST185,Customer_189,Male,51,Delhi,South,PROD147,Product_115,Beauty,1,802.2,802.2,Debit Card,38.44
+ORD0015,08-05-2024,CUST914,Customer_325,Male,27,Pune,South,PROD138,Product_197,Sports,9,1423.28,12809.52,UPI,43.01
+ORD0016,23-09-2024,CUST944,Customer_123,Male,55,Hyderabad,West,PROD43,Product_114,Books,1,1706.14,1706.14,UPI,3.43
+ORD0017,23-11-2023,CUST549,Customer_153,Female,60,Kolkata,North,PROD37,Product_32,Books,1,1700.78,1700.78,UPI,45.95
+ORD0018,27-01-2024,CUST938,Customer_136,Female,60,Pune,South,PROD98,Product_152,Fashion,1,492.49,492.49,UPI,29.59
+ORD0019,15-10-2024,CUST826,Customer_497,Female,46,Bangalore,West,PROD16,Product_9,Books,6,583.59,3501.54,Debit Card,74.25
+ORD0020,19-07-2023,CUST963,Customer_473,Other,23,Mumbai,South,PROD4,Product_46,Fashion,5,317.9,1589.5,Net Banking,92.87
+ORD0021,14-03-2024,CUST650,Customer_350,Other,61,Hyderabad,North,PROD166,Product_82,Home Appliances,2,1095.19,2190.38,Credit Card,46.96
+ORD0022,31-10-2023,CUST252,Customer_234,Female,53,Hyderabad,North,PROD123,Product_104,Home Appliances,5,970.09,4850.45,Debit Card,26.23
+ORD0023,30-09-2025,CUST222,Customer_207,Male,53,Chennai,South,PROD16,Product_29,Toys,6,508.22,3049.32,Cash on Delivery,9.41
+ORD0024,28-05-2024,CUST666,Customer_123,Female,64,Delhi,East,PROD41,Product_44,Books,10,750.95,7509.5,Credit Card,88.38
+ORD0025,25-10-2023,CUST194,Customer_484,Female,37,Chennai,North,PROD183,Product_70,Books,5,1503.43,7517.15,Cash on Delivery,98.82
+ORD0026,24-09-2023,CUST369,Customer_318,Other,63,Kolkata,West,PROD5,Product_9,Beauty,5,706.08,3530.4,Cash on Delivery,95.17
+ORD0027,10-05-2023,CUST994,Customer_248,Other,37,Hyderabad,South,PROD92,Product_63,Beauty,9,1538.93,13850.37,Cash on Delivery,21
+ORD0028,27-05-2023,CUST147,Customer_268,Male,56,Hyderabad,South,PROD62,Product_172,Beauty,5,556.71,2783.55,Net Banking,84.69
+ORD0029,29-07-2025,CUST616,Customer_466,Male,34,Delhi,North,PROD26,Product_13,Beauty,7,486.92,3408.44,Credit Card,83.65
+ORD0030,17-07-2025,CUST450,Customer_26,Other,46,Kolkata,West,PROD14,Product_37,Electronics,5,1312.78,6563.9,UPI,36.48
+ORD0031,03-12-2024,CUST190,Customer_34,Female,65,Bangalore,East,PROD18,Product_102,Books,2,426.24,852.48,Debit Card,78.29
+ORD0032,30-07-2025,CUST892,Customer_406,Male,56,Kolkata,North,PROD141,Product_6,Home Appliances,3,1867.13,5601.39,Net Banking,41.92
+ORD0033,21-11-2024,CUST426,Customer_314,Female,31,Bangalore,North,PROD108,Product_57,Home Appliances,8,1233.96,9871.68,Cash on Delivery,33.01
+ORD0034,06-03-2024,CUST249,Customer_389,Female,62,Chennai,North,PROD36,Product_109,Books,6,133.64,801.84,Cash on Delivery,95.7
+ORD0035,08-06-2023,CUST141,Customer_446,Female,56,Kolkata,West,PROD118,Product_150,Beauty,5,1979.27,9896.35,UPI,24.16
+ORD0036,23-02-2025,CUST257,Customer_478,Other,25,Ahmedabad,South,PROD166,Product_58,Beauty,6,1976.4,11858.4,Debit Card,42.77
+ORD0037,29-04-2025,CUST862,Customer_61,Other,46,Pune,West,PROD135,Product_11,Beauty,8,1519.65,12157.2,Debit Card,75.7
+ORD0038,21-11-2023,CUST120,Customer_103,Female,20,Hyderabad,West,PROD167,Product_185,Sports,1,964.62,964.62,Credit Card,94.26
+ORD0039,03-08-2023,CUST908,Customer_141,Other,36,Ahmedabad,South,PROD131,Product_194,Books,3,725.17,2175.51,UPI,71.4
+ORD0040,02-07-2025,CUST578,Customer_30,Female,65,Chennai,West,PROD108,Product_78,Fashion,4,746.01,2984.04,Credit Card,94.96
+ORD0041,09-01-2024,CUST320,Customer_214,Other,25,Delhi,West,PROD146,Product_176,Sports,1,127.53,127.53,UPI,17.46
+ORD0042,09-09-2023,CUST797,Customer_70,Female,40,Bangalore,South,PROD110,Product_82,Fashion,1,1472.79,1472.79,UPI,26.12
+ORD0043,12-04-2024,CUST361,Customer_183,Male,33,Kolkata,South,PROD110,Product_161,Sports,9,723.22,6508.98,UPI,72.71
+ORD0044,31-08-2023,CUST784,Customer_361,Male,18,Mumbai,North,PROD156,Product_65,Sports,4,1456.13,5824.52,Credit Card,48.55
+ORD0045,07-12-2024,CUST524,Customer_398,Female,45,Bangalore,West,PROD113,Product_147,Toys,6,557.47,3344.82,Debit Card,36.75
+ORD0046,03-08-2023,CUST581,Customer_58,Male,47,Kolkata,South,PROD41,Product_198,Beauty,1,687.28,687.28,Debit Card,69.16
+ORD0047,11-01-2024,CUST176,Customer_22,Female,25,Mumbai,East,PROD115,Product_79,Toys,3,330.53,991.59,Credit Card,95.43
+ORD0048,30-06-2025,CUST171,Customer_436,Other,55,Kolkata,East,PROD154,Product_196,Sports,5,1329.08,6645.4,Credit Card,55.33
+ORD0049,14-08-2025,CUST637,Customer_466,Other,53,Delhi,North,PROD153,Product_191,Books,5,1257.34,6286.7,Credit Card,3.64
+ORD0050,19-09-2025,CUST788,Customer_331,Male,59,Hyderabad,North,PROD78,Product_151,Books,5,1423.9,7119.5,Debit Card,42.66
+ORD0051,05-01-2024,CUST769,Customer_60,Male,23,Bangalore,South,PROD2,Product_113,Books,4,1066.39,4265.56,Debit Card,56.9
+ORD0052,07-10-2023,CUST771,Customer_361,Female,41,Hyderabad,South,PROD150,Product_50,Electronics,5,1571.02,7855.1,Debit Card,89.08
+ORD0053,30-11-2023,CUST822,Customer_300,Other,20,Ahmedabad,East,PROD108,Product_8,Fashion,5,470.73,2353.65,Debit Card,57.27
+ORD0054,08-04-2023,CUST276,Customer_108,Male,50,Ahmedabad,East,PROD190,Product_195,Electronics,9,329.37,2964.33,UPI,84.58
+ORD0055,26-02-2025,CUST634,Customer_460,Female,27,Pune,East,PROD70,Product_126,Sports,1,800.59,800.59,Credit Card,93.06
+ORD0056,22-08-2024,CUST825,Customer_60,Male,48,Hyderabad,West,PROD175,Product_29,Home Appliances,4,1040.51,4162.04,Debit Card,16.66
+ORD0057,19-02-2025,CUST439,Customer_225,Other,24,Delhi,West,PROD111,Product_44,Fashion,2,571.01,1142.02,Net Banking,85.87
+ORD0058,01-02-2023,CUST734,Customer_230,Male,19,Chennai,North,PROD133,Product_43,Home Appliances,3,1276.13,3828.39,Cash on Delivery,79.19
+ORD0059,22-04-2025,CUST624,Customer_218,Female,44,Delhi,West,PROD187,Product_76,Home Appliances,6,323.36,1940.16,Net Banking,89.19
+ORD0060,28-05-2023,CUST120,Customer_56,Other,62,Delhi,West,PROD50,Product_44,Beauty,5,1584.99,7924.95,Net Banking,26.82
+ORD0061,28-12-2024,CUST883,Customer_40,Male,39,Ahmedabad,East,PROD69,Product_79,Home Appliances,9,1359.88,12238.92,Debit Card,20.32
+ORD0062,25-08-2023,CUST485,Customer_488,Female,38,Mumbai,South,PROD156,Product_35,Electronics,3,1391.63,4174.89,Net Banking,6.86
+ORD0063,10-05-2025,CUST817,Customer_177,Other,32,Chennai,South,PROD26,Product_93,Sports,8,1070.59,8564.72,Cash on Delivery,10.18
+ORD0064,04-10-2024,CUST439,Customer_479,Female,24,Chennai,North,PROD25,Product_19,Electronics,3,1284.65,3853.95,Cash on Delivery,9.08
+ORD0065,30-07-2024,CUST456,Customer_461,Male,54,Bangalore,West,PROD10,Product_156,Toys,4,1613.29,6453.16,Credit Card,22.71
+ORD0066,01-02-2023,CUST952,Customer_137,Female,53,Mumbai,East,PROD50,Product_190,Books,6,410.07,2460.42,Credit Card,94.68
+ORD0067,05-11-2024,CUST314,Customer_42,Other,48,Pune,East,PROD172,Product_176,Beauty,5,1665.23,8326.15,Net Banking,52.67
+ORD0068,07-03-2025,CUST555,Customer_128,Female,38,Pune,North,PROD184,Product_110,Fashion,3,1344.15,4032.45,Debit Card,66.53
+ORD0069,25-03-2024,CUST939,Customer_300,Female,40,Chennai,East,PROD187,Product_69,Beauty,4,1892.72,7570.88,Credit Card,39.56
+ORD0070,24-05-2024,CUST391,Customer_115,Female,49,Ahmedabad,South,PROD94,Product_165,Toys,10,1462.55,14625.5,Cash on Delivery,62.5
+ORD0071,23-06-2024,CUST210,Customer_44,Female,31,Ahmedabad,North,PROD70,Product_167,Fashion,8,790.09,6320.72,UPI,10.4
+ORD0072,21-01-2025,CUST752,Customer_472,Other,29,Hyderabad,North,PROD69,Product_200,Home Appliances,6,1374.27,8245.62,Debit Card,43.16
+ORD0073,07-11-2023,CUST944,Customer_391,Female,52,Pune,South,PROD70,Product_88,Books,7,1987.77,13914.39,Credit Card,65.77
+ORD0074,09-10-2024,CUST234,Customer_471,Female,19,Delhi,South,PROD142,Product_13,Toys,10,1683.79,16837.9,UPI,91.31
+ORD0075,20-10-2023,CUST614,Customer_480,Other,53,Delhi,North,PROD109,Product_186,Sports,2,1759.9,3519.8,Net Banking,20.73
+ORD0076,14-03-2024,CUST342,Customer_387,Other,61,Ahmedabad,West,PROD200,Product_117,Electronics,10,824.32,8243.2,Debit Card,81.85
+ORD0077,17-09-2025,CUST577,Customer_435,Other,37,Kolkata,South,PROD197,Product_148,Beauty,10,1775.1,17751,Cash on Delivery,67.62
+ORD0078,12-08-2024,CUST661,Customer_230,Female,61,Delhi,North,PROD108,Product_48,Sports,10,1249.14,12491.4,Debit Card,86.03
+ORD0079,31-07-2023,CUST652,Customer_276,Other,34,Bangalore,West,PROD27,Product_52,Home Appliances,6,1612.88,9677.28,Net Banking,90.47
+ORD0080,17-06-2023,CUST244,Customer_159,Other,62,Mumbai,South,PROD21,Product_78,Fashion,4,655.14,2620.56,Credit Card,73.21
+ORD0081,10-10-2023,CUST681,Customer_431,Male,46,Mumbai,East,PROD172,Product_12,Sports,8,777.82,6222.56,UPI,24.58
+ORD0082,13-12-2024,CUST788,Customer_149,Male,19,Ahmedabad,South,PROD106,Product_12,Fashion,1,1885.16,1885.16,UPI,53.07
+ORD0083,20-05-2024,CUST814,Customer_445,Male,43,Kolkata,North,PROD144,Product_64,Books,1,605.83,605.83,Credit Card,28.58
+ORD0084,06-11-2024,CUST734,Customer_337,Other,51,Hyderabad,North,PROD138,Product_136,Toys,6,226.9,1361.4,UPI,50.71
+ORD0085,18-04-2024,CUST247,Customer_411,Male,33,Chennai,East,PROD131,Product_126,Toys,8,1613.3,12906.4,UPI,7.49
+ORD0086,29-06-2024,CUST947,Customer_456,Male,53,Delhi,East,PROD115,Product_63,Home Appliances,10,971.61,9716.1,Debit Card,47.88
+ORD0087,22-08-2025,CUST941,Customer_48,Female,18,Mumbai,North,PROD108,Product_160,Books,6,1335.58,8013.48,Credit Card,18.18
+ORD0088,05-09-2024,CUST801,Customer_81,Female,61,Hyderabad,East,PROD71,Product_94,Toys,10,202.55,2025.5,UPI,32.82
+ORD0089,24-12-2024,CUST796,Customer_101,Male,25,Bangalore,West,PROD200,Product_126,Sports,2,220.33,440.66,Credit Card,14.57
+ORD0090,16-01-2024,CUST214,Customer_128,Male,30,Pune,North,PROD69,Product_112,Electronics,1,1275.01,1275.01,Net Banking,68.69
+ORD0091,15-02-2024,CUST666,Customer_314,Other,56,Hyderabad,South,PROD74,Product_172,Home Appliances,4,1372.52,5490.08,Credit Card,96.86
+ORD0092,14-06-2025,CUST780,Customer_185,Other,37,Mumbai,West,PROD124,Product_34,Toys,8,1443.12,11544.96,Credit Card,26.13
+ORD0093,26-09-2024,CUST524,Customer_93,Female,58,Ahmedabad,West,PROD32,Product_43,Books,8,1666.71,13333.68,Cash on Delivery,39.61
+ORD0094,07-06-2023,CUST262,Customer_111,Female,48,Kolkata,West,PROD97,Product_107,Fashion,2,1195.63,2391.26,Debit Card,35.21
+ORD0095,16-01-2023,CUST731,Customer_238,Female,18,Bangalore,South,PROD120,Product_155,Home Appliances,2,1714.61,3429.22,Credit Card,14.54
+ORD0096,23-09-2023,CUST568,Customer_500,Male,30,Kolkata,East,PROD172,Product_166,Sports,6,963.02,5778.12,Cash on Delivery,64.31
+ORD0097,01-08-2024,CUST141,Customer_266,Female,39,Hyderabad,South,PROD66,Product_62,Electronics,9,564.29,5078.61,Cash on Delivery,57.47
+ORD0098,24-03-2023,CUST224,Customer_369,Male,48,Bangalore,East,PROD6,Product_80,Toys,10,123.92,1239.2,Credit Card,93.99
+ORD0099,02-12-2024,CUST547,Customer_187,Other,62,Kolkata,West,PROD31,Product_179,Home Appliances,6,550.9,3305.4,UPI,67.61
+ORD0100,09-04-2023,CUST974,Customer_440,Male,26,Pune,East,PROD80,Product_173,Toys,10,1973.88,19738.8,UPI,87.69
+ORD0101,03-04-2025,CUST350,Customer_188,Male,35,Chennai,South,PROD84,Product_115,Fashion,3,1042.21,3126.63,Debit Card,85.96
+ORD0102,21-02-2025,CUST509,Customer_392,Other,38,Pune,South,PROD1,Product_109,Home Appliances,2,1539.81,3079.62,UPI,45.65
+ORD0103,13-05-2024,CUST342,Customer_497,Female,40,Chennai,South,PROD111,Product_195,Beauty,3,1706.15,5118.45,Credit Card,70.75
+ORD0104,17-01-2024,CUST624,Customer_148,Male,45,Delhi,East,PROD125,Product_182,Books,10,534.94,5349.4,Debit Card,54.57
+ORD0105,13-01-2025,CUST830,Customer_324,Other,40,Chennai,North,PROD170,Product_127,Beauty,7,892.32,6246.24,Cash on Delivery,96.51
+ORD0106,03-03-2023,CUST106,Customer_477,Other,34,Ahmedabad,West,PROD165,Product_45,Toys,9,1465.73,13191.57,Debit Card,95.92
+ORD0107,18-04-2023,CUST482,Customer_53,Female,31,Ahmedabad,West,PROD172,Product_146,Electronics,7,113.26,792.82,UPI,57.29
+ORD0108,11-03-2025,CUST993,Customer_467,Male,30,Kolkata,East,PROD132,Product_148,Sports,6,1125.97,6755.82,UPI,35.71
+ORD0109,05-03-2023,CUST972,Customer_192,Female,55,Ahmedabad,West,PROD81,Product_41,Toys,7,1360,9520,Credit Card,44.21
+ORD0110,07-01-2025,CUST822,Customer_434,Male,30,Bangalore,South,PROD148,Product_146,Fashion,6,397.49,2384.94,Net Banking,30.87
+ORD0111,28-02-2024,CUST630,Customer_392,Other,24,Chennai,South,PROD139,Product_38,Fashion,9,383.43,3450.87,UPI,62.49
+ORD0112,05-09-2025,CUST439,Customer_357,Other,48,Pune,North,PROD120,Product_88,Sports,10,598.48,5984.8,Net Banking,34.54
+ORD0113,09-07-2023,CUST343,Customer_109,Male,21,Delhi,East,PROD162,Product_171,Beauty,7,1481.15,10368.05,Cash on Delivery,32.39
+ORD0114,06-04-2024,CUST739,Customer_133,Other,24,Bangalore,South,PROD24,Product_71,Home Appliances,3,542.66,1627.98,Net Banking,68.1
+ORD0115,24-08-2024,CUST222,Customer_133,Female,35,Kolkata,West,PROD158,Product_196,Home Appliances,6,1248.23,7489.38,Net Banking,2.51
+ORD0116,05-04-2023,CUST680,Customer_198,Male,33,Chennai,South,PROD35,Product_144,Home Appliances,4,1861.87,7447.48,Credit Card,22.37
+ORD0117,16-02-2024,CUST125,Customer_189,Other,43,Hyderabad,North,PROD172,Product_49,Toys,2,1652.86,3305.72,UPI,15.5
+ORD0118,14-11-2023,CUST354,Customer_99,Male,43,Pune,South,PROD152,Product_144,Fashion,9,417.74,3759.66,Cash on Delivery,30.3
+ORD0119,11-05-2024,CUST646,Customer_48,Other,29,Delhi,West,PROD49,Product_75,Electronics,2,1303.89,2607.78,Cash on Delivery,41.01
+ORD0120,04-02-2024,CUST421,Customer_166,Female,39,Pune,North,PROD134,Product_114,Home Appliances,2,1518.86,3037.72,Cash on Delivery,99.26
+ORD0121,24-11-2024,CUST304,Customer_461,Female,30,Kolkata,West,PROD3,Product_60,Fashion,2,1918.98,3837.96,Credit Card,81.63
+ORD0122,13-01-2023,CUST277,Customer_429,Other,46,Hyderabad,East,PROD165,Product_199,Beauty,7,1620.38,11342.66,UPI,75.25
+ORD0123,21-02-2023,CUST629,Customer_133,Female,32,Delhi,South,PROD77,Product_115,Toys,2,1602.28,3204.56,Debit Card,43.32
+ORD0124,05-05-2024,CUST476,Customer_69,Female,19,Kolkata,North,PROD135,Product_131,Beauty,4,1841.52,7366.08,Debit Card,90.45
+ORD0125,27-08-2023,CUST496,Customer_415,Other,58,Kolkata,South,PROD132,Product_198,Sports,10,1817.15,18171.5,Net Banking,32.78
+ORD0126,22-01-2025,CUST198,Customer_370,Female,25,Chennai,West,PROD21,Product_76,Electronics,7,283.12,1981.84,Net Banking,85.29
+ORD0127,21-06-2025,CUST777,Customer_485,Female,40,Bangalore,North,PROD186,Product_128,Home Appliances,9,1197.17,10774.53,Debit Card,72.8
+ORD0128,23-02-2023,CUST375,Customer_92,Male,59,Mumbai,North,PROD1,Product_91,Electronics,4,684.36,2737.44,UPI,44.11
+ORD0129,16-10-2023,CUST681,Customer_430,Male,31,Hyderabad,East,PROD71,Product_72,Beauty,6,863.46,5180.76,UPI,59.19
+ORD0130,06-02-2023,CUST380,Customer_30,Other,20,Pune,West,PROD130,Product_186,Beauty,7,637.12,4459.84,Credit Card,88.15
+ORD0131,23-03-2023,CUST818,Customer_83,Male,47,Mumbai,South,PROD119,Product_28,Sports,5,1642.63,8213.15,UPI,70.44
+ORD0132,07-09-2023,CUST826,Customer_483,Male,57,Kolkata,South,PROD79,Product_107,Beauty,6,484.61,2907.66,Net Banking,27.71
+ORD0133,06-01-2024,CUST469,Customer_114,Other,44,Mumbai,West,PROD193,Product_27,Home Appliances,10,837.13,8371.3,Debit Card,49.94
+ORD0134,09-07-2024,CUST224,Customer_383,Other,19,Pune,East,PROD128,Product_73,Toys,5,206.78,1033.9,Cash on Delivery,57.59
+ORD0135,14-05-2024,CUST743,Customer_9,Other,62,Mumbai,South,PROD133,Product_170,Books,3,1484.09,4452.27,Cash on Delivery,34.04
+ORD0136,08-06-2025,CUST348,Customer_486,Other,50,Hyderabad,West,PROD188,Product_129,Fashion,7,346.01,2422.07,Debit Card,36.3
+ORD0137,10-11-2023,CUST987,Customer_316,Other,46,Chennai,North,PROD148,Product_111,Books,10,311.22,3112.2,Net Banking,9.93
+ORD0138,04-02-2024,CUST508,Customer_196,Male,58,Bangalore,West,PROD37,Product_135,Electronics,9,1073.78,9664.02,Debit Card,9.18
+ORD0139,05-07-2023,CUST587,Customer_51,Other,46,Mumbai,West,PROD167,Product_37,Toys,7,307.2,2150.4,Net Banking,91.82
+ORD0140,10-05-2023,CUST335,Customer_369,Female,22,Bangalore,North,PROD200,Product_176,Home Appliances,4,700.16,2800.64,Credit Card,75.52
+ORD0141,10-07-2025,CUST823,Customer_435,Other,56,Chennai,North,PROD163,Product_46,Home Appliances,1,901.66,901.66,Net Banking,32.8
+ORD0142,28-07-2023,CUST480,Customer_391,Male,50,Hyderabad,North,PROD110,Product_86,Fashion,3,1882.31,5646.93,UPI,58.62
+ORD0143,14-01-2024,CUST614,Customer_228,Female,60,Ahmedabad,East,PROD43,Product_67,Books,6,358.41,2150.46,UPI,99.92
+ORD0144,03-03-2024,CUST179,Customer_87,Female,19,Bangalore,South,PROD199,Product_37,Fashion,10,552.97,5529.7,Net Banking,38.28
+ORD0145,02-06-2025,CUST585,Customer_457,Male,30,Kolkata,North,PROD154,Product_36,Books,2,693.96,1387.92,Debit Card,81.76
+ORD0146,21-03-2025,CUST427,Customer_350,Other,26,Pune,South,PROD162,Product_34,Fashion,4,1746.08,6984.32,Net Banking,87.56
+ORD0147,02-07-2025,CUST342,Customer_481,Other,52,Delhi,East,PROD44,Product_187,Toys,9,1217.86,10960.74,Net Banking,10.85
+ORD0148,17-08-2023,CUST384,Customer_412,Other,61,Chennai,West,PROD70,Product_99,Sports,8,1877.54,15020.32,Cash on Delivery,83.45
+ORD0149,19-04-2023,CUST490,Customer_291,Other,62,Bangalore,West,PROD87,Product_147,Books,8,233.07,1864.56,Cash on Delivery,62.68
+ORD0150,08-02-2024,CUST394,Customer_226,Male,22,Mumbai,South,PROD142,Product_15,Beauty,4,305.27,1221.08,UPI,52.74
+ORD0151,28-07-2023,CUST698,Customer_474,Other,58,Ahmedabad,North,PROD43,Product_17,Fashion,4,620.04,2480.16,Credit Card,4.68
+ORD0152,16-02-2025,CUST766,Customer_43,Other,63,Kolkata,West,PROD71,Product_49,Books,8,1508,12064,UPI,65.49
+ORD0153,19-07-2023,CUST125,Customer_500,Other,27,Chennai,West,PROD198,Product_44,Sports,4,794.35,3177.4,Net Banking,75.35
+ORD0154,23-10-2023,CUST423,Customer_418,Male,21,Bangalore,North,PROD14,Product_72,Beauty,1,1928.71,1928.71,Cash on Delivery,7.81
+ORD0155,11-10-2023,CUST624,Customer_229,Female,65,Chennai,West,PROD41,Product_14,Home Appliances,2,504.11,1008.22,Net Banking,28.85
+ORD0156,07-02-2025,CUST458,Customer_105,Male,24,Hyderabad,East,PROD162,Product_131,Fashion,9,1546.5,13918.5,Cash on Delivery,51.8
+ORD0157,05-01-2025,CUST932,Customer_136,Male,28,Mumbai,South,PROD115,Product_86,Fashion,3,327.93,983.79,UPI,3.07
+ORD0158,21-01-2023,CUST380,Customer_436,Male,46,Bangalore,East,PROD140,Product_130,Toys,6,108.26,649.56,UPI,63.28
+ORD0159,23-07-2024,CUST265,Customer_412,Other,44,Bangalore,North,PROD145,Product_97,Sports,2,1626.71,3253.42,Debit Card,44.67
+ORD0160,30-06-2023,CUST940,Customer_210,Male,60,Ahmedabad,North,PROD151,Product_112,Sports,4,864.6,3458.4,Debit Card,94.17
+ORD0161,25-08-2025,CUST990,Customer_482,Male,56,Pune,West,PROD157,Product_144,Home Appliances,10,1351.2,13512,Credit Card,46.74
+ORD0162,01-04-2024,CUST685,Customer_123,Female,31,Bangalore,West,PROD137,Product_194,Beauty,3,186.61,559.83,Debit Card,75.18
+ORD0163,14-09-2024,CUST945,Customer_236,Male,59,Chennai,South,PROD179,Product_113,Fashion,8,898.73,7189.84,Cash on Delivery,21.14
+ORD0164,31-07-2025,CUST518,Customer_211,Female,53,Delhi,South,PROD40,Product_148,Electronics,2,953.02,1906.04,Cash on Delivery,1.19
+ORD0165,16-04-2023,CUST297,Customer_293,Other,40,Pune,North,PROD37,Product_145,Books,4,1391.03,5564.12,Net Banking,50.81
+ORD0166,14-06-2025,CUST477,Customer_155,Male,55,Chennai,East,PROD191,Product_169,Books,4,1066.92,4267.68,UPI,32.73
+ORD0167,15-01-2023,CUST477,Customer_398,Male,59,Bangalore,South,PROD33,Product_60,Toys,10,100.21,1002.1,Net Banking,66.3
+ORD0168,15-08-2024,CUST981,Customer_300,Male,48,Kolkata,North,PROD148,Product_70,Toys,5,1880.6,9403,Cash on Delivery,98.91
+ORD0169,24-01-2025,CUST785,Customer_293,Male,56,Delhi,North,PROD16,Product_186,Sports,3,1903.97,5711.91,Credit Card,40.66
+ORD0170,19-08-2025,CUST949,Customer_50,Male,40,Ahmedabad,East,PROD81,Product_199,Books,2,773.13,1546.26,Net Banking,48.15
+ORD0171,24-05-2025,CUST667,Customer_175,Female,38,Delhi,North,PROD6,Product_53,Fashion,2,161.49,322.98,Credit Card,37.09
+ORD0172,09-10-2023,CUST515,Customer_152,Other,57,Chennai,East,PROD45,Product_142,Home Appliances,5,1955.65,9778.25,Credit Card,82.65
+ORD0173,18-07-2025,CUST373,Customer_16,Female,27,Delhi,North,PROD199,Product_149,Electronics,7,975.86,6831.02,Net Banking,8
+ORD0174,28-05-2024,CUST143,Customer_237,Male,38,Delhi,North,PROD96,Product_94,Electronics,1,1064.26,1064.26,Debit Card,19.95
+ORD0175,23-01-2025,CUST460,Customer_353,Female,45,Delhi,West,PROD147,Product_112,Toys,9,1863.19,16768.71,Cash on Delivery,48.32
+ORD0176,02-02-2023,CUST222,Customer_473,Male,55,Mumbai,South,PROD2,Product_61,Books,9,272.96,2456.64,Cash on Delivery,62.12
+ORD0177,09-04-2023,CUST881,Customer_120,Female,30,Bangalore,North,PROD90,Product_195,Sports,3,276.91,830.73,Cash on Delivery,23.23
+ORD0178,18-07-2024,CUST473,Customer_419,Other,37,Hyderabad,East,PROD132,Product_185,Fashion,4,1230.3,4921.2,UPI,54.36
+ORD0179,15-02-2025,CUST335,Customer_323,Other,36,Pune,South,PROD52,Product_128,Books,2,1622.12,3244.24,UPI,43.66
+ORD0180,05-01-2024,CUST558,Customer_125,Female,27,Pune,East,PROD173,Product_150,Sports,10,1424.69,14246.9,Debit Card,70.3
+ORD0181,17-01-2023,CUST435,Customer_59,Other,44,Kolkata,East,PROD122,Product_138,Electronics,7,1504.1,10528.7,Credit Card,91.62
+ORD0182,29-12-2023,CUST560,Customer_182,Other,44,Pune,West,PROD57,Product_56,Home Appliances,8,1789.72,14317.76,Cash on Delivery,0.16
+ORD0183,19-12-2024,CUST526,Customer_458,Male,56,Kolkata,South,PROD149,Product_158,Books,5,118.95,594.75,Net Banking,34.49
+ORD0184,16-11-2024,CUST509,Customer_38,Male,58,Kolkata,West,PROD23,Product_99,Home Appliances,4,1382.07,5528.28,Credit Card,65.33
+ORD0185,05-03-2023,CUST541,Customer_474,Other,28,Chennai,North,PROD106,Product_143,Toys,5,968.44,4842.2,Cash on Delivery,84.1
+ORD0186,24-12-2024,CUST378,Customer_63,Other,65,Delhi,East,PROD85,Product_32,Beauty,4,1212.76,4851.04,Cash on Delivery,50.29
+ORD0187,30-06-2025,CUST701,Customer_200,Male,27,Mumbai,North,PROD27,Product_194,Toys,8,1014.5,8116,Debit Card,67.13
+ORD0188,15-05-2025,CUST132,Customer_333,Male,37,Mumbai,North,PROD33,Product_177,Beauty,10,1019.91,10199.1,UPI,33.1
+ORD0189,11-06-2023,CUST815,Customer_294,Other,48,Kolkata,North,PROD177,Product_38,Sports,8,1256.95,10055.6,Net Banking,6.14
+ORD0190,09-08-2025,CUST211,Customer_239,Male,64,Hyderabad,South,PROD115,Product_124,Home Appliances,6,157.77,946.62,Net Banking,39.56
+ORD0191,25-07-2024,CUST529,Customer_101,Other,33,Delhi,East,PROD55,Product_69,Fashion,8,1468.13,11745.04,Cash on Delivery,3.29
+ORD0192,12-04-2025,CUST695,Customer_64,Female,62,Hyderabad,North,PROD62,Product_160,Fashion,2,628.5,1257,Debit Card,57.62
+ORD0193,12-10-2023,CUST196,Customer_222,Other,55,Bangalore,North,PROD44,Product_189,Fashion,10,108.94,1089.4,Debit Card,65.21
+ORD0194,09-09-2023,CUST406,Customer_159,Male,22,Bangalore,South,PROD134,Product_7,Fashion,9,1108.56,9977.04,Net Banking,84.22
+ORD0195,24-01-2024,CUST946,Customer_399,Female,25,Bangalore,West,PROD157,Product_178,Sports,1,211.05,211.05,Credit Card,72.44
+ORD0196,01-06-2025,CUST833,Customer_74,Male,46,Kolkata,West,PROD155,Product_142,Fashion,6,1112.84,6677.04,Net Banking,38.17
+ORD0197,03-02-2024,CUST588,Customer_210,Other,53,Kolkata,West,PROD98,Product_38,Beauty,9,265.21,2386.89,Cash on Delivery,72.26
+ORD0198,13-07-2025,CUST755,Customer_373,Female,46,Bangalore,North,PROD139,Product_5,Sports,2,325.53,651.06,Credit Card,24.01
+ORD0199,08-12-2023,CUST660,Customer_14,Male,46,Kolkata,East,PROD51,Product_93,Sports,8,475.5,3804,Net Banking,30.83
+ORD0200,27-03-2025,CUST647,Customer_50,Other,49,Kolkata,East,PROD48,Product_38,Fashion,9,1030.98,9278.82,Debit Card,16.28
+ORD0201,26-07-2024,CUST527,Customer_402,Other,64,Ahmedabad,East,PROD154,Product_33,Electronics,7,719.13,5033.91,UPI,66.77
+ORD0202,21-03-2025,CUST259,Customer_300,Other,31,Kolkata,South,PROD153,Product_171,Fashion,8,959.38,7675.04,Cash on Delivery,97.16
+ORD0203,06-09-2023,CUST480,Customer_135,Male,47,Mumbai,West,PROD74,Product_156,Electronics,6,380.32,2281.92,Debit Card,11.87
+ORD0204,04-03-2025,CUST483,Customer_92,Female,61,Hyderabad,South,PROD102,Product_69,Toys,10,1317.63,13176.3,Credit Card,93.93
+ORD0205,27-10-2024,CUST557,Customer_5,Male,22,Mumbai,East,PROD10,Product_166,Fashion,7,738.79,5171.53,Debit Card,86.59
+ORD0206,26-03-2024,CUST938,Customer_311,Male,47,Chennai,East,PROD5,Product_178,Sports,10,1750.28,17502.8,Credit Card,35.65
+ORD0207,02-03-2025,CUST649,Customer_258,Male,64,Delhi,North,PROD191,Product_153,Home Appliances,2,1747.66,3495.32,Debit Card,94.84
+ORD0208,06-10-2024,CUST342,Customer_306,Male,59,Delhi,North,PROD8,Product_129,Fashion,8,1200.39,9603.12,Cash on Delivery,44.29
+ORD0209,29-01-2025,CUST810,Customer_254,Other,61,Bangalore,East,PROD106,Product_89,Books,5,1574,7870,Debit Card,92.16
+ORD0210,10-08-2025,CUST801,Customer_250,Female,52,Hyderabad,North,PROD180,Product_181,Electronics,4,549.58,2198.32,Debit Card,97.15
+ORD0211,28-03-2023,CUST347,Customer_333,Female,36,Pune,South,PROD147,Product_86,Beauty,1,1331.45,1331.45,Cash on Delivery,39.04
+ORD0212,12-11-2024,CUST231,Customer_361,Other,28,Pune,West,PROD193,Product_22,Toys,10,1823.87,18238.7,Credit Card,4.61
+ORD0213,20-03-2023,CUST306,Customer_282,Other,18,Mumbai,South,PROD44,Product_193,Electronics,5,543.11,2715.55,Cash on Delivery,15.46
+ORD0214,17-11-2024,CUST403,Customer_64,Male,58,Pune,North,PROD116,Product_183,Electronics,1,1962.01,1962.01,Cash on Delivery,39.41
+ORD0215,30-12-2024,CUST392,Customer_9,Other,57,Ahmedabad,East,PROD149,Product_123,Home Appliances,4,579.1,2316.4,Cash on Delivery,31.31
+ORD0216,20-04-2023,CUST469,Customer_475,Other,34,Hyderabad,West,PROD153,Product_59,Beauty,2,1922.4,3844.8,UPI,75.54
+ORD0217,16-05-2023,CUST520,Customer_123,Female,61,Delhi,West,PROD166,Product_91,Electronics,3,1551.01,4653.03,UPI,11.86
+ORD0218,31-05-2023,CUST338,Customer_371,Female,64,Pune,South,PROD68,Product_160,Toys,7,280.72,1965.04,Cash on Delivery,6.82
+ORD0219,08-10-2023,CUST665,Customer_101,Other,31,Chennai,North,PROD56,Product_49,Home Appliances,1,1545.69,1545.69,Debit Card,45.58
+ORD0220,12-01-2023,CUST696,Customer_212,Other,52,Mumbai,West,PROD121,Product_154,Books,5,193.66,968.3,Net Banking,8.05
+ORD0221,11-02-2025,CUST829,Customer_313,Other,22,Chennai,South,PROD52,Product_166,Home Appliances,9,1556.69,14010.21,Debit Card,11.51
+ORD0222,19-09-2023,CUST866,Customer_342,Female,42,Bangalore,South,PROD178,Product_53,Toys,7,673.57,4714.99,UPI,94.79
+ORD0223,18-09-2023,CUST724,Customer_265,Female,64,Delhi,North,PROD51,Product_69,Electronics,10,617.13,6171.3,Net Banking,1.45
+ORD0224,14-02-2025,CUST809,Customer_266,Female,48,Kolkata,South,PROD44,Product_132,Books,3,808.03,2424.09,Net Banking,82.52
+ORD0225,18-11-2024,CUST622,Customer_287,Male,18,Chennai,South,PROD38,Product_28,Electronics,8,545.39,4363.12,Cash on Delivery,14.8
+ORD0226,25-01-2025,CUST340,Customer_479,Female,55,Bangalore,West,PROD51,Product_158,Home Appliances,3,634.3,1902.9,UPI,67.01
+ORD0227,02-02-2023,CUST440,Customer_456,Other,40,Ahmedabad,East,PROD7,Product_29,Beauty,4,1466.69,5866.76,UPI,10.97
+ORD0228,18-03-2024,CUST221,Customer_472,Other,40,Kolkata,South,PROD74,Product_12,Sports,2,1716.46,3432.92,Cash on Delivery,70.31
+ORD0229,24-06-2023,CUST347,Customer_462,Male,53,Delhi,East,PROD34,Product_179,Fashion,3,1229.03,3687.09,UPI,70.33
+ORD0230,23-01-2024,CUST337,Customer_430,Other,54,Delhi,North,PROD1,Product_33,Toys,4,1314.59,5258.36,Debit Card,0.03
+ORD0231,09-06-2024,CUST860,Customer_7,Other,24,Pune,North,PROD112,Product_55,Beauty,3,630.18,1890.54,Debit Card,83.53
+ORD0232,09-04-2025,CUST385,Customer_261,Female,41,Kolkata,East,PROD75,Product_76,Home Appliances,8,159.28,1274.24,Credit Card,96.36
+ORD0233,13-06-2024,CUST721,Customer_175,Other,64,Kolkata,South,PROD132,Product_185,Beauty,10,1017.13,10171.3,UPI,27.32
+ORD0234,29-12-2024,CUST360,Customer_432,Other,59,Chennai,East,PROD135,Product_68,Fashion,10,499.34,4993.4,Cash on Delivery,9.27
+ORD0235,30-05-2024,CUST520,Customer_436,Female,24,Kolkata,North,PROD20,Product_156,Toys,10,1465.36,14653.6,UPI,37.18
+ORD0236,17-12-2024,CUST264,Customer_70,Other,26,Pune,East,PROD176,Product_178,Fashion,6,1113.88,6683.28,Credit Card,33.26
+ORD0237,29-03-2024,CUST618,Customer_161,Female,63,Mumbai,West,PROD101,Product_199,Beauty,9,523.79,4714.11,Debit Card,59.26
+ORD0238,07-12-2024,CUST962,Customer_230,Other,64,Mumbai,South,PROD183,Product_31,Books,2,1470.8,2941.6,Cash on Delivery,20
+ORD0239,17-05-2025,CUST552,Customer_415,Female,53,Delhi,West,PROD157,Product_45,Home Appliances,9,885.72,7971.48,Net Banking,55.4
+ORD0240,15-10-2024,CUST689,Customer_412,Female,45,Bangalore,East,PROD160,Product_121,Sports,6,945.18,5671.08,UPI,71.04
+ORD0241,13-03-2025,CUST451,Customer_62,Other,60,Delhi,East,PROD127,Product_187,Toys,6,1014.19,6085.14,Cash on Delivery,74.94
+ORD0242,11-10-2023,CUST544,Customer_463,Female,49,Kolkata,East,PROD151,Product_199,Fashion,10,643.08,6430.8,Cash on Delivery,21.81
+ORD0243,03-03-2023,CUST588,Customer_348,Other,59,Ahmedabad,West,PROD1,Product_107,Electronics,10,1493.12,14931.2,Debit Card,55.51
+ORD0244,21-02-2023,CUST706,Customer_381,Female,28,Pune,West,PROD178,Product_99,Electronics,1,679.15,679.15,Net Banking,56.73
+ORD0245,15-12-2024,CUST845,Customer_41,Other,65,Hyderabad,North,PROD171,Product_45,Sports,5,1177.12,5885.6,Debit Card,25.56
+ORD0246,17-07-2025,CUST241,Customer_190,Female,59,Pune,South,PROD126,Product_144,Books,6,864.87,5189.22,Cash on Delivery,48.96
+ORD0247,26-05-2025,CUST740,Customer_489,Female,53,Kolkata,West,PROD71,Product_196,Books,6,1208.96,7253.76,Cash on Delivery,72.04
+ORD0248,29-04-2025,CUST907,Customer_38,Female,58,Ahmedabad,South,PROD163,Product_133,Electronics,6,839.01,5034.06,Net Banking,26.08
+ORD0249,07-06-2024,CUST209,Customer_116,Female,40,Pune,South,PROD153,Product_79,Electronics,3,1861.68,5585.04,Cash on Delivery,19.66
+ORD0250,07-01-2024,CUST675,Customer_204,Other,49,Bangalore,West,PROD58,Product_77,Home Appliances,4,1620.37,6481.48,Cash on Delivery,11.6
+ORD0251,29-09-2024,CUST477,Customer_122,Male,44,Ahmedabad,West,PROD181,Product_144,Toys,8,1861.51,14892.08,Net Banking,13.57
+ORD0252,03-09-2024,CUST550,Customer_319,Female,51,Hyderabad,East,PROD132,Product_33,Books,5,234.45,1172.25,Credit Card,37.34
+ORD0253,23-06-2025,CUST105,Customer_283,Other,47,Hyderabad,North,PROD4,Product_122,Books,2,637.64,1275.28,Debit Card,90.65
+ORD0254,25-12-2024,CUST538,Customer_235,Other,51,Hyderabad,South,PROD195,Product_105,Beauty,1,760.68,760.68,Cash on Delivery,30.51
+ORD0255,04-02-2023,CUST583,Customer_185,Other,36,Chennai,South,PROD171,Product_52,Home Appliances,5,870.32,4351.6,Cash on Delivery,86.73
+ORD0256,19-02-2024,CUST144,Customer_36,Other,40,Pune,South,PROD171,Product_60,Electronics,1,268.56,268.56,Debit Card,34.29
+ORD0257,19-10-2023,CUST647,Customer_45,Female,48,Chennai,South,PROD182,Product_51,Toys,9,1640.72,14766.48,UPI,88.12
+ORD0258,05-06-2023,CUST485,Customer_488,Male,18,Pune,North,PROD176,Product_131,Fashion,7,1448.63,10140.41,Net Banking,89.99
+ORD0259,09-01-2025,CUST192,Customer_66,Female,51,Ahmedabad,West,PROD106,Product_157,Electronics,2,1054.47,2108.94,Debit Card,68.86
+ORD0260,31-05-2023,CUST103,Customer_54,Female,59,Delhi,North,PROD139,Product_56,Sports,10,1297.2,12972,UPI,46.09
+ORD0261,16-06-2025,CUST780,Customer_348,Male,57,Mumbai,West,PROD6,Product_100,Electronics,6,791.47,4748.82,Debit Card,49.97
+ORD0262,20-12-2023,CUST604,Customer_412,Other,28,Chennai,West,PROD195,Product_116,Electronics,3,733.13,2199.39,Debit Card,13.81
+ORD0263,16-05-2025,CUST305,Customer_230,Female,38,Bangalore,West,PROD171,Product_114,Electronics,10,866.46,8664.6,Net Banking,57.24
+ORD0264,01-04-2024,CUST347,Customer_425,Other,34,Ahmedabad,South,PROD28,Product_154,Beauty,6,1754.67,10528.02,Net Banking,59.23
+ORD0265,01-09-2025,CUST135,Customer_418,Female,64,Chennai,North,PROD149,Product_100,Books,6,1932.11,11592.66,Debit Card,51.76
+ORD0266,30-11-2023,CUST946,Customer_313,Female,19,Kolkata,South,PROD188,Product_126,Home Appliances,2,1679.11,3358.22,Debit Card,16.1
+ORD0267,06-02-2025,CUST581,Customer_331,Female,45,Pune,South,PROD89,Product_86,Home Appliances,1,646.27,646.27,Net Banking,44.24
+ORD0268,08-05-2025,CUST859,Customer_295,Other,33,Kolkata,West,PROD87,Product_123,Electronics,8,582.99,4663.92,Cash on Delivery,1.48
+ORD0269,25-05-2023,CUST715,Customer_370,Other,27,Chennai,South,PROD64,Product_159,Fashion,4,1296.01,5184.04,Debit Card,79.1
+ORD0270,02-11-2023,CUST336,Customer_7,Other,65,Delhi,East,PROD58,Product_198,Electronics,3,1074.91,3224.73,Cash on Delivery,55.92
+ORD0271,05-12-2023,CUST154,Customer_469,Other,40,Kolkata,West,PROD78,Product_105,Toys,5,175.51,877.55,UPI,31.29
+ORD0272,10-05-2023,CUST837,Customer_84,Other,26,Kolkata,East,PROD185,Product_120,Sports,10,1256.84,12568.4,Cash on Delivery,72.48
+ORD0273,28-11-2024,CUST912,Customer_312,Female,35,Ahmedabad,East,PROD108,Product_78,Home Appliances,10,1146.3,11463,Net Banking,72.57
+ORD0274,06-08-2023,CUST806,Customer_44,Male,65,Ahmedabad,East,PROD163,Product_165,Beauty,3,618.32,1854.96,Debit Card,14.36
+ORD0275,06-12-2024,CUST504,Customer_63,Male,27,Pune,West,PROD180,Product_43,Electronics,10,534.4,5344,Credit Card,31.09
+ORD0276,14-07-2024,CUST412,Customer_353,Male,54,Pune,East,PROD192,Product_181,Electronics,2,644.91,1289.82,UPI,8.86
+ORD0277,09-07-2023,CUST722,Customer_12,Other,51,Bangalore,North,PROD109,Product_98,Sports,1,109.06,109.06,Cash on Delivery,91.23
+ORD0278,09-11-2024,CUST267,Customer_82,Other,38,Kolkata,South,PROD27,Product_200,Sports,9,1814.59,16331.31,Cash on Delivery,61.91
+ORD0279,07-07-2025,CUST970,Customer_5,Other,64,Ahmedabad,South,PROD159,Product_9,Sports,9,143.17,1288.53,Net Banking,21.95
+ORD0280,23-04-2023,CUST345,Customer_380,Male,64,Hyderabad,West,PROD183,Product_116,Beauty,4,1754.88,7019.52,Credit Card,6.74
+ORD0281,01-04-2025,CUST221,Customer_171,Male,33,Delhi,North,PROD47,Product_162,Sports,10,513.45,5134.5,Debit Card,76.23
+ORD0282,13-11-2023,CUST889,Customer_266,Female,23,Bangalore,South,PROD85,Product_128,Fashion,10,872.6,8726,UPI,84.13
+ORD0283,02-06-2025,CUST692,Customer_380,Other,54,Hyderabad,North,PROD63,Product_46,Home Appliances,5,161.82,809.1,UPI,44.04
+ORD0284,16-04-2023,CUST931,Customer_238,Other,48,Hyderabad,South,PROD165,Product_199,Beauty,9,1119.07,10071.63,UPI,32.44
+ORD0285,18-07-2025,CUST253,Customer_352,Other,52,Ahmedabad,West,PROD124,Product_162,Beauty,7,1135.22,7946.54,UPI,56.55
+ORD0286,18-04-2024,CUST699,Customer_145,Male,63,Mumbai,West,PROD137,Product_116,Books,4,198.43,793.72,Credit Card,29.04
+ORD0287,29-05-2025,CUST733,Customer_4,Female,36,Ahmedabad,South,PROD148,Product_36,Home Appliances,7,537.46,3762.22,Credit Card,56.76
+ORD0288,28-05-2025,CUST159,Customer_39,Female,35,Delhi,West,PROD178,Product_90,Sports,10,766.78,7667.8,Credit Card,65.79
+ORD0289,04-07-2023,CUST836,Customer_302,Male,53,Delhi,South,PROD27,Product_49,Electronics,7,1209.15,8464.05,UPI,75.74
+ORD0290,27-04-2023,CUST882,Customer_370,Other,30,Bangalore,North,PROD158,Product_44,Sports,4,1452.69,5810.76,Debit Card,92.83
+ORD0291,02-02-2023,CUST644,Customer_234,Other,52,Delhi,West,PROD159,Product_22,Toys,10,1950.18,19501.8,Cash on Delivery,6.01
+ORD0292,03-05-2024,CUST458,Customer_210,Female,47,Chennai,North,PROD14,Product_5,Fashion,1,604.8,604.8,Debit Card,54.92
+ORD0293,20-01-2025,CUST766,Customer_36,Female,51,Kolkata,West,PROD26,Product_198,Toys,8,349.45,2795.6,Credit Card,52.38
+ORD0294,06-07-2025,CUST994,Customer_261,Female,52,Ahmedabad,North,PROD44,Product_5,Beauty,7,225.38,1577.66,Debit Card,44.7
+ORD0295,30-09-2025,CUST924,Customer_418,Other,47,Chennai,South,PROD29,Product_142,Electronics,6,1213.2,7279.2,Credit Card,72.88
+ORD0296,10-12-2023,CUST548,Customer_282,Other,30,Chennai,North,PROD108,Product_123,Home Appliances,2,1937.83,3875.66,Credit Card,37.1
+ORD0297,24-03-2023,CUST636,Customer_64,Female,23,Mumbai,South,PROD43,Product_109,Toys,7,290.71,2034.97,Debit Card,61.69
+ORD0298,31-05-2024,CUST796,Customer_4,Male,44,Pune,East,PROD175,Product_176,Electronics,4,1088.36,4353.44,Net Banking,1.36
+ORD0299,15-06-2023,CUST400,Customer_152,Female,22,Hyderabad,East,PROD103,Product_169,Beauty,7,776.21,5433.47,Net Banking,32.83
+ORD0300,01-03-2023,CUST520,Customer_469,Female,41,Hyderabad,West,PROD8,Product_161,Electronics,4,584.63,2338.52,UPI,35.11
+ORD0301,03-09-2024,CUST610,Customer_200,Female,40,Mumbai,South,PROD38,Product_88,Books,2,1649.28,3298.56,Debit Card,61.37
+ORD0302,28-03-2024,CUST170,Customer_297,Male,36,Pune,South,PROD180,Product_151,Home Appliances,8,774.67,6197.36,Debit Card,78.02
+ORD0303,22-04-2025,CUST431,Customer_380,Other,40,Mumbai,West,PROD128,Product_13,Books,4,1413.1,5652.4,Net Banking,93.62
+ORD0304,11-01-2024,CUST987,Customer_177,Female,57,Bangalore,East,PROD79,Product_126,Toys,9,646.75,5820.75,Cash on Delivery,4.81
+ORD0305,20-08-2025,CUST280,Customer_88,Female,26,Delhi,West,PROD102,Product_112,Home Appliances,10,1027.73,10277.3,Credit Card,16.04
+ORD0306,11-01-2024,CUST619,Customer_4,Male,19,Hyderabad,South,PROD146,Product_15,Toys,3,207.38,622.14,Debit Card,69.34
+ORD0307,09-08-2023,CUST477,Customer_440,Other,57,Ahmedabad,South,PROD57,Product_113,Beauty,3,399.33,1197.99,Credit Card,12.95
+ORD0308,18-03-2023,CUST431,Customer_256,Female,30,Pune,West,PROD51,Product_155,Books,5,1201.02,6005.1,Net Banking,85.4
+ORD0309,24-08-2025,CUST748,Customer_410,Other,32,Mumbai,East,PROD75,Product_25,Home Appliances,8,1744.53,13956.24,Net Banking,84.34
+ORD0310,16-07-2024,CUST546,Customer_27,Male,36,Delhi,South,PROD197,Product_11,Electronics,5,578.91,2894.55,Credit Card,96.73
+ORD0311,12-05-2024,CUST191,Customer_149,Other,38,Chennai,North,PROD120,Product_147,Toys,4,921.07,3684.28,Net Banking,51.01
+ORD0312,26-01-2025,CUST600,Customer_367,Other,38,Chennai,North,PROD123,Product_193,Beauty,1,1868.53,1868.53,Net Banking,59.23
+ORD0313,12-10-2023,CUST459,Customer_331,Female,33,Delhi,East,PROD113,Product_114,Beauty,2,487.81,975.62,UPI,68.91
+ORD0314,04-09-2025,CUST496,Customer_475,Female,64,Kolkata,West,PROD192,Product_102,Books,3,569.76,1709.28,Debit Card,97.54
+ORD0315,13-04-2024,CUST405,Customer_186,Other,31,Mumbai,East,PROD50,Product_93,Beauty,4,1106.07,4424.28,Debit Card,47.3
+ORD0316,09-11-2023,CUST246,Customer_196,Male,36,Hyderabad,North,PROD176,Product_93,Electronics,10,1233.85,12338.5,UPI,95.97
+ORD0317,25-12-2024,CUST906,Customer_39,Male,49,Mumbai,North,PROD184,Product_70,Books,8,1687.3,13498.4,Debit Card,6.11
+ORD0318,26-01-2024,CUST990,Customer_214,Other,31,Kolkata,West,PROD36,Product_39,Electronics,8,1779.16,14233.28,UPI,86.82
+ORD0319,15-07-2025,CUST993,Customer_59,Male,61,Mumbai,East,PROD58,Product_78,Beauty,5,1124.63,5623.15,Credit Card,81.44
+ORD0320,21-09-2025,CUST745,Customer_485,Other,52,Delhi,North,PROD173,Product_10,Books,2,1751.89,3503.78,Debit Card,30.85
+ORD0321,16-05-2024,CUST453,Customer_232,Other,40,Mumbai,South,PROD3,Product_169,Books,1,439.57,439.57,UPI,54.88
+ORD0322,19-05-2024,CUST521,Customer_314,Male,31,Chennai,North,PROD83,Product_53,Books,4,700.84,2803.36,UPI,96.87
+ORD0323,25-02-2025,CUST172,Customer_436,Other,42,Bangalore,West,PROD82,Product_198,Sports,2,1495.73,2991.46,Debit Card,98.68
+ORD0324,25-12-2024,CUST781,Customer_8,Female,57,Delhi,West,PROD25,Product_140,Sports,2,1122.71,2245.42,Debit Card,22.49
+ORD0325,06-11-2023,CUST923,Customer_71,Female,29,Hyderabad,West,PROD9,Product_186,Electronics,3,1896.83,5690.49,Net Banking,26.32
+ORD0326,14-04-2025,CUST537,Customer_329,Other,49,Kolkata,North,PROD33,Product_97,Fashion,2,1755.02,3510.04,Debit Card,27.95
+ORD0327,03-08-2023,CUST605,Customer_479,Male,29,Pune,East,PROD15,Product_104,Sports,8,1050.78,8406.24,Cash on Delivery,99.97
+ORD0328,01-07-2023,CUST856,Customer_159,Female,24,Pune,East,PROD150,Product_82,Electronics,3,210.5,631.5,Cash on Delivery,96.43
+ORD0329,27-05-2023,CUST498,Customer_373,Female,36,Bangalore,East,PROD15,Product_139,Sports,5,1404.73,7023.65,Debit Card,48.37
+ORD0330,02-03-2024,CUST442,Customer_92,Male,63,Hyderabad,South,PROD137,Product_121,Fashion,6,544.63,3267.78,Credit Card,44.27
+ORD0331,05-09-2025,CUST986,Customer_119,Female,49,Mumbai,West,PROD199,Product_157,Books,8,138.99,1111.92,Debit Card,92.84
+ORD0332,10-09-2023,CUST786,Customer_64,Female,28,Hyderabad,West,PROD42,Product_11,Fashion,3,1251.69,3755.07,Cash on Delivery,95.73
+ORD0333,19-04-2023,CUST299,Customer_285,Male,19,Pune,North,PROD107,Product_42,Toys,10,918.95,9189.5,Credit Card,32.62
+ORD0334,28-01-2024,CUST978,Customer_488,Other,64,Hyderabad,East,PROD191,Product_92,Sports,1,1578.64,1578.64,UPI,38.17
+ORD0335,14-02-2023,CUST804,Customer_424,Other,41,Hyderabad,East,PROD140,Product_102,Books,6,1423.49,8540.94,Credit Card,70.87
+ORD0336,30-07-2023,CUST918,Customer_332,Male,32,Ahmedabad,North,PROD106,Product_81,Home Appliances,9,518.77,4668.93,Cash on Delivery,37.02
+ORD0337,02-11-2023,CUST349,Customer_350,Male,44,Mumbai,West,PROD49,Product_127,Books,7,1567.22,10970.54,Net Banking,17.17
+ORD0338,14-03-2025,CUST421,Customer_23,Female,58,Delhi,North,PROD41,Product_112,Fashion,5,1963.59,9817.95,Cash on Delivery,93.77
+ORD0339,01-05-2024,CUST240,Customer_114,Other,44,Mumbai,West,PROD121,Product_133,Toys,9,1052.2,9469.8,Cash on Delivery,38.65
+ORD0340,03-11-2024,CUST195,Customer_42,Other,24,Ahmedabad,East,PROD5,Product_158,Home Appliances,4,1624.63,6498.52,Net Banking,35.01
+ORD0341,08-08-2023,CUST906,Customer_391,Female,54,Bangalore,North,PROD127,Product_114,Sports,9,1788.7,16098.3,Net Banking,6.56
+ORD0342,03-06-2024,CUST400,Customer_440,Other,64,Ahmedabad,West,PROD5,Product_83,Toys,2,547.72,1095.44,UPI,1
+ORD0343,20-11-2024,CUST360,Customer_80,Male,31,Chennai,East,PROD46,Product_190,Fashion,6,299.06,1794.36,Credit Card,88.29
+ORD0344,22-08-2025,CUST315,Customer_482,Other,27,Chennai,South,PROD54,Product_80,Home Appliances,4,1576.75,6307,Cash on Delivery,52.3
+ORD0345,04-02-2024,CUST662,Customer_254,Female,29,Chennai,South,PROD186,Product_87,Books,2,444.65,889.3,Debit Card,43.98
+ORD0346,16-03-2024,CUST363,Customer_90,Female,34,Kolkata,West,PROD43,Product_165,Books,2,1772.89,3545.78,Debit Card,23.85
+ORD0347,21-04-2023,CUST666,Customer_304,Female,53,Kolkata,West,PROD11,Product_98,Toys,7,255.16,1786.12,Credit Card,31.04
+ORD0348,18-12-2024,CUST945,Customer_420,Male,32,Bangalore,North,PROD28,Product_109,Toys,9,791.1,7119.9,Cash on Delivery,86.63
+ORD0349,12-04-2025,CUST300,Customer_320,Female,43,Hyderabad,West,PROD149,Product_147,Beauty,4,187.15,748.6,Debit Card,27.64
+ORD0350,26-01-2024,CUST198,Customer_107,Male,51,Mumbai,North,PROD32,Product_75,Electronics,3,1581.87,4745.61,Cash on Delivery,64.55
+ORD0351,24-08-2023,CUST104,Customer_268,Other,24,Kolkata,North,PROD57,Product_74,Electronics,6,1339.54,8037.24,Debit Card,66.47
+ORD0352,04-12-2023,CUST576,Customer_159,Male,22,Ahmedabad,South,PROD175,Product_198,Toys,3,1136.81,3410.43,Credit Card,81.63
+ORD0353,19-02-2024,CUST374,Customer_349,Female,56,Kolkata,North,PROD194,Product_24,Beauty,1,1814.57,1814.57,Credit Card,26.3
+ORD0354,06-09-2023,CUST127,Customer_376,Male,41,Hyderabad,South,PROD131,Product_133,Home Appliances,4,1273.58,5094.32,Debit Card,95.73
+ORD0355,27-06-2023,CUST920,Customer_386,Other,18,Delhi,North,PROD101,Product_156,Beauty,3,405.79,1217.37,UPI,76.74
+ORD0356,26-05-2024,CUST543,Customer_250,Male,24,Pune,East,PROD142,Product_73,Sports,10,1808.38,18083.8,Cash on Delivery,62.2
+ORD0357,25-12-2024,CUST358,Customer_284,Female,52,Hyderabad,East,PROD110,Product_108,Toys,4,192.66,770.64,Net Banking,82.18
+ORD0358,04-02-2024,CUST364,Customer_194,Other,22,Bangalore,West,PROD76,Product_193,Toys,4,1438.4,5753.6,Credit Card,61.43
+ORD0359,28-10-2024,CUST932,Customer_439,Other,33,Bangalore,South,PROD186,Product_40,Beauty,8,273.05,2184.4,Net Banking,62.63
+ORD0360,29-09-2025,CUST845,Customer_80,Female,26,Bangalore,West,PROD124,Product_6,Toys,8,1599.88,12799.04,UPI,4.47
+ORD0361,26-09-2025,CUST796,Customer_52,Female,39,Mumbai,North,PROD181,Product_161,Beauty,1,1374.8,1374.8,Credit Card,94.09
+ORD0362,16-07-2024,CUST283,Customer_311,Female,49,Bangalore,East,PROD166,Product_42,Toys,2,1406.9,2813.8,Net Banking,56.05
+ORD0363,23-03-2023,CUST501,Customer_329,Male,46,Bangalore,East,PROD25,Product_65,Toys,2,561.05,1122.1,UPI,19.62
+ORD0364,30-07-2023,CUST179,Customer_482,Male,29,Ahmedabad,East,PROD157,Product_51,Home Appliances,7,1186.2,8303.4,Debit Card,12.33
+ORD0365,25-06-2025,CUST349,Customer_76,Male,61,Bangalore,East,PROD128,Product_55,Home Appliances,1,566.44,566.44,Credit Card,97.5
+ORD0366,19-06-2025,CUST969,Customer_489,Male,21,Bangalore,West,PROD8,Product_89,Books,5,1796.04,8980.2,Debit Card,54.99
+ORD0367,13-05-2023,CUST903,Customer_269,Other,48,Hyderabad,North,PROD78,Product_38,Beauty,10,1637.33,16373.3,Credit Card,68.76
+ORD0368,28-08-2023,CUST559,Customer_170,Male,60,Mumbai,East,PROD130,Product_35,Books,5,851.54,4257.7,Net Banking,13.52
+ORD0369,25-11-2024,CUST727,Customer_126,Other,44,Pune,South,PROD144,Product_55,Books,10,1439.81,14398.1,Net Banking,86.55
+ORD0370,29-01-2024,CUST488,Customer_198,Other,37,Chennai,East,PROD168,Product_151,Sports,10,177.93,1779.3,UPI,87.85
+ORD0371,11-05-2023,CUST340,Customer_265,Female,50,Delhi,North,PROD187,Product_94,Home Appliances,10,789.18,7891.8,UPI,87.7
+ORD0372,26-05-2025,CUST869,Customer_73,Male,28,Mumbai,West,PROD157,Product_89,Books,8,389.68,3117.44,Credit Card,15.48
+ORD0373,06-04-2024,CUST155,Customer_188,Other,49,Kolkata,North,PROD4,Product_146,Beauty,7,1572.31,11006.17,Cash on Delivery,2.44
+ORD0374,28-09-2025,CUST229,Customer_20,Other,22,Pune,East,PROD179,Product_88,Books,3,534.62,1603.86,Cash on Delivery,50.78
+ORD0375,24-09-2024,CUST869,Customer_54,Female,33,Bangalore,East,PROD114,Product_175,Electronics,2,1163.05,2326.1,Net Banking,33.6
+ORD0376,09-04-2023,CUST948,Customer_416,Female,62,Mumbai,South,PROD193,Product_23,Sports,2,1158.08,2316.16,Debit Card,49.72
+ORD0377,11-06-2023,CUST877,Customer_166,Female,62,Chennai,North,PROD122,Product_34,Books,8,349.78,2798.24,UPI,46.75
+ORD0378,13-05-2025,CUST260,Customer_64,Other,43,Delhi,North,PROD1,Product_39,Beauty,9,207.62,1868.58,Cash on Delivery,96.67
+ORD0379,10-07-2023,CUST725,Customer_481,Other,40,Delhi,East,PROD25,Product_195,Toys,4,1792.83,7171.32,Cash on Delivery,28.51
+ORD0380,20-08-2024,CUST603,Customer_223,Female,25,Delhi,West,PROD171,Product_112,Sports,2,874.2,1748.4,Net Banking,60.06
+ORD0381,18-08-2024,CUST589,Customer_46,Female,44,Delhi,South,PROD199,Product_133,Books,7,1428.04,9996.28,Net Banking,53.64
+ORD0382,03-12-2024,CUST860,Customer_10,Male,51,Kolkata,North,PROD165,Product_103,Toys,10,1540.65,15406.5,Cash on Delivery,6.75
+ORD0383,28-02-2023,CUST495,Customer_233,Male,40,Chennai,West,PROD161,Product_86,Toys,9,997.77,8979.93,Credit Card,36.38
+ORD0384,21-04-2025,CUST862,Customer_425,Other,62,Bangalore,East,PROD4,Product_168,Sports,1,1895.05,1895.05,Net Banking,0.64
+ORD0385,02-12-2023,CUST646,Customer_294,Male,64,Chennai,North,PROD11,Product_79,Fashion,3,689.02,2067.06,Cash on Delivery,89.72
+ORD0386,05-01-2023,CUST207,Customer_445,Female,61,Mumbai,South,PROD75,Product_61,Books,1,1054.98,1054.98,Credit Card,57.04
+ORD0387,03-10-2023,CUST480,Customer_153,Female,64,Kolkata,West,PROD129,Product_15,Sports,6,1802.37,10814.22,Net Banking,77.41
+ORD0388,28-02-2025,CUST109,Customer_241,Other,57,Hyderabad,South,PROD113,Product_12,Sports,1,640.76,640.76,Cash on Delivery,33.06
+ORD0389,27-01-2024,CUST914,Customer_383,Male,19,Kolkata,West,PROD103,Product_155,Books,4,1023.26,4093.04,Debit Card,45.83
+ORD0390,03-06-2025,CUST963,Customer_350,Other,47,Ahmedabad,North,PROD45,Product_39,Beauty,2,1645.1,3290.2,UPI,55.38
+ORD0391,13-08-2023,CUST948,Customer_166,Male,63,Delhi,North,PROD30,Product_21,Home Appliances,10,1026.1,10261,Net Banking,28.74
+ORD0392,08-12-2023,CUST665,Customer_145,Other,36,Hyderabad,West,PROD93,Product_144,Home Appliances,6,663.47,3980.82,Net Banking,60.78
+ORD0393,19-10-2024,CUST843,Customer_375,Other,55,Ahmedabad,East,PROD100,Product_100,Home Appliances,10,469.9,4699,Net Banking,66.85
+ORD0394,26-08-2023,CUST201,Customer_470,Male,28,Mumbai,West,PROD171,Product_24,Electronics,7,1522.32,10656.24,Net Banking,22.76
+ORD0395,06-07-2024,CUST545,Customer_221,Male,64,Ahmedabad,East,PROD134,Product_1,Electronics,9,311.95,2807.55,Net Banking,88.89
+ORD0396,28-11-2024,CUST737,Customer_134,Other,49,Delhi,East,PROD86,Product_119,Beauty,8,1324,10592,Net Banking,24.07
+ORD0397,23-11-2024,CUST775,Customer_458,Male,39,Ahmedabad,West,PROD110,Product_194,Books,5,1093.9,5469.5,Debit Card,24.93
+ORD0398,14-07-2025,CUST973,Customer_441,Male,65,Ahmedabad,West,PROD111,Product_110,Beauty,9,607.2,5464.8,UPI,51.77
+ORD0399,22-01-2023,CUST160,Customer_180,Other,50,Kolkata,West,PROD98,Product_159,Books,5,142.78,713.9,UPI,19.92
+ORD0400,04-10-2024,CUST195,Customer_297,Other,61,Kolkata,East,PROD196,Product_144,Electronics,2,168.92,337.84,Debit Card,82.41
+ORD0401,16-12-2024,CUST353,Customer_465,Female,55,Hyderabad,East,PROD51,Product_18,Beauty,6,198.27,1189.62,Cash on Delivery,16.06
+ORD0402,08-03-2024,CUST781,Customer_102,Male,22,Delhi,South,PROD172,Product_55,Sports,6,1540,9240,UPI,14.01
+ORD0403,23-08-2024,CUST438,Customer_465,Male,58,Pune,South,PROD111,Product_136,Books,7,980.11,6860.77,Net Banking,41.76
+ORD0404,21-08-2023,CUST110,Customer_143,Other,28,Hyderabad,North,PROD31,Product_153,Sports,5,323.92,1619.6,Debit Card,99.69
+ORD0405,18-05-2025,CUST208,Customer_370,Female,43,Kolkata,West,PROD108,Product_142,Sports,2,614,1228,Cash on Delivery,61.66
+ORD0406,07-01-2023,CUST275,Customer_152,Female,25,Delhi,East,PROD137,Product_60,Books,1,1170.8,1170.8,UPI,70.44
+ORD0407,30-06-2025,CUST774,Customer_196,Other,39,Ahmedabad,South,PROD97,Product_142,Toys,10,484.42,4844.2,UPI,18.16
+ORD0408,25-02-2024,CUST605,Customer_297,Female,34,Mumbai,South,PROD155,Product_78,Fashion,7,939.19,6574.33,Cash on Delivery,73.38
+ORD0409,26-02-2025,CUST713,Customer_408,Other,18,Bangalore,East,PROD184,Product_117,Sports,5,196.02,980.1,UPI,47.67
+ORD0410,16-05-2024,CUST427,Customer_494,Female,59,Mumbai,North,PROD62,Product_52,Beauty,2,1178.93,2357.86,Debit Card,56.92
+ORD0411,08-09-2024,CUST953,Customer_63,Female,49,Delhi,East,PROD106,Product_123,Beauty,5,1000.55,5002.75,Debit Card,16.73
+ORD0412,04-06-2024,CUST383,Customer_301,Female,44,Ahmedabad,West,PROD120,Product_188,Toys,6,636.48,3818.88,Debit Card,34.59
+ORD0413,19-07-2024,CUST787,Customer_132,Other,55,Ahmedabad,North,PROD164,Product_7,Electronics,6,774.79,4648.74,Debit Card,30.33
+ORD0414,25-04-2025,CUST311,Customer_456,Other,24,Chennai,West,PROD180,Product_36,Books,9,236.71,2130.39,Debit Card,27.84
+ORD0415,04-05-2023,CUST888,Customer_287,Male,34,Pune,North,PROD32,Product_125,Books,7,950.67,6654.69,Net Banking,16.79
+ORD0416,27-09-2024,CUST640,Customer_440,Male,32,Hyderabad,East,PROD139,Product_4,Home Appliances,10,248.4,2484,UPI,15.88
+ORD0417,05-08-2023,CUST344,Customer_127,Other,55,Delhi,West,PROD108,Product_63,Electronics,5,1263.26,6316.3,UPI,4.99
+ORD0418,23-10-2023,CUST613,Customer_253,Other,34,Hyderabad,South,PROD136,Product_75,Beauty,9,1260.65,11345.85,Cash on Delivery,28.62
+ORD0419,24-11-2024,CUST557,Customer_61,Male,64,Pune,North,PROD40,Product_81,Fashion,8,1070.57,8564.56,Credit Card,47.21
+ORD0420,19-05-2025,CUST593,Customer_81,Male,18,Mumbai,West,PROD112,Product_57,Fashion,8,108.53,868.24,Credit Card,26.52
+ORD0421,30-10-2023,CUST449,Customer_380,Male,53,Delhi,North,PROD49,Product_138,Sports,10,262.32,2623.2,Cash on Delivery,12.63
+ORD0422,18-05-2025,CUST376,Customer_208,Other,21,Kolkata,South,PROD54,Product_143,Sports,10,1361.75,13617.5,Cash on Delivery,25.83
+ORD0423,10-09-2023,CUST551,Customer_150,Male,40,Delhi,South,PROD10,Product_136,Beauty,4,1928.34,7713.36,Net Banking,42.94
+ORD0424,04-07-2024,CUST898,Customer_288,Male,56,Chennai,South,PROD4,Product_73,Electronics,1,674.78,674.78,Net Banking,80.32
+ORD0425,30-10-2024,CUST972,Customer_478,Female,33,Ahmedabad,South,PROD96,Product_163,Home Appliances,9,1563.58,14072.22,UPI,52.64
+ORD0426,27-07-2025,CUST743,Customer_358,Female,63,Ahmedabad,West,PROD80,Product_81,Home Appliances,1,1989.92,1989.92,Net Banking,47.88
+ORD0427,08-10-2023,CUST754,Customer_161,Male,19,Hyderabad,East,PROD146,Product_56,Home Appliances,2,617.5,1235,Credit Card,50.75
+ORD0428,31-08-2025,CUST521,Customer_110,Male,63,Chennai,South,PROD127,Product_81,Books,10,1439.34,14393.4,UPI,54.97
+ORD0429,12-12-2024,CUST772,Customer_170,Female,30,Hyderabad,South,PROD196,Product_157,Books,8,1744.95,13959.6,Net Banking,90.48
+ORD0430,10-05-2025,CUST294,Customer_144,Other,32,Hyderabad,East,PROD105,Product_72,Sports,10,408.24,4082.4,Credit Card,84.55
+ORD0431,24-06-2024,CUST290,Customer_300,Female,26,Chennai,East,PROD50,Product_87,Beauty,7,1781.91,12473.37,Debit Card,26.47
+ORD0432,12-02-2025,CUST163,Customer_453,Male,35,Mumbai,North,PROD11,Product_45,Beauty,4,234.95,939.8,Cash on Delivery,94.71
+ORD0433,02-05-2024,CUST616,Customer_415,Female,58,Pune,North,PROD84,Product_45,Electronics,8,1905.59,15244.72,UPI,16.48
+ORD0434,24-06-2023,CUST897,Customer_291,Male,56,Delhi,South,PROD31,Product_85,Beauty,8,353.94,2831.52,Debit Card,11.51
+ORD0435,18-08-2024,CUST405,Customer_33,Male,20,Hyderabad,East,PROD45,Product_60,Sports,9,459.18,4132.62,Net Banking,50.74
+ORD0436,07-07-2025,CUST140,Customer_12,Other,24,Bangalore,South,PROD1,Product_175,Electronics,5,1649.49,8247.45,Cash on Delivery,92.5
+ORD0437,06-10-2024,CUST481,Customer_244,Other,38,Delhi,North,PROD107,Product_91,Books,10,1843.37,18433.7,Net Banking,66.74
+ORD0438,14-06-2024,CUST449,Customer_133,Female,65,Chennai,West,PROD151,Product_144,Sports,2,866.57,1733.14,Debit Card,93.18
+ORD0439,16-01-2025,CUST281,Customer_19,Female,50,Delhi,South,PROD187,Product_39,Books,3,1273.11,3819.33,Cash on Delivery,29
+ORD0440,12-11-2024,CUST676,Customer_431,Female,53,Hyderabad,North,PROD117,Product_35,Toys,1,370.44,370.44,Debit Card,90.42
+ORD0441,23-02-2023,CUST462,Customer_70,Female,58,Ahmedabad,West,PROD135,Product_28,Toys,3,332.09,996.27,Credit Card,12.44
+ORD0442,13-07-2023,CUST444,Customer_219,Other,51,Delhi,East,PROD91,Product_75,Beauty,10,1807.24,18072.4,Credit Card,47.95
+ORD0443,31-03-2025,CUST897,Customer_80,Female,64,Pune,East,PROD178,Product_108,Beauty,7,1152.77,8069.39,Debit Card,36.9
+ORD0444,30-07-2023,CUST769,Customer_224,Other,51,Delhi,East,PROD165,Product_56,Toys,2,1535.11,3070.22,Debit Card,19.02
+ORD0445,19-02-2023,CUST958,Customer_349,Male,55,Mumbai,West,PROD56,Product_44,Sports,5,1109.97,5549.85,Credit Card,7.57
+ORD0446,15-10-2024,CUST309,Customer_242,Other,53,Mumbai,South,PROD15,Product_65,Home Appliances,2,1140.43,2280.86,Credit Card,29.13
+ORD0447,06-03-2023,CUST739,Customer_122,Other,56,Pune,North,PROD175,Product_104,Home Appliances,2,1731.11,3462.22,UPI,19.38
+ORD0448,16-06-2023,CUST443,Customer_454,Female,44,Delhi,East,PROD76,Product_23,Sports,3,1080.48,3241.44,UPI,54.81
+ORD0449,28-03-2023,CUST800,Customer_114,Female,44,Bangalore,West,PROD58,Product_60,Toys,3,1249.3,3747.9,UPI,54.04
+ORD0450,23-07-2023,CUST553,Customer_74,Female,65,Bangalore,North,PROD6,Product_166,Beauty,4,1977.48,7909.92,Debit Card,41.66
+ORD0451,17-12-2024,CUST544,Customer_289,Female,23,Bangalore,West,PROD8,Product_133,Fashion,10,1066.27,10662.7,Net Banking,65.71
+ORD0452,24-11-2024,CUST401,Customer_374,Male,26,Bangalore,South,PROD165,Product_75,Toys,4,1554.03,6216.12,UPI,54.88
+ORD0453,15-12-2024,CUST281,Customer_293,Male,64,Mumbai,East,PROD183,Product_112,Beauty,4,1077.06,4308.24,Debit Card,52.07
+ORD0454,04-05-2025,CUST457,Customer_304,Other,32,Mumbai,North,PROD113,Product_7,Sports,1,1788.31,1788.31,Credit Card,82.39
+ORD0455,25-07-2025,CUST789,Customer_87,Female,63,Pune,South,PROD27,Product_117,Electronics,9,331.82,2986.38,Debit Card,81.13
+ORD0456,21-08-2023,CUST600,Customer_259,Male,27,Kolkata,South,PROD36,Product_56,Sports,5,1073.47,5367.35,Credit Card,10.4
+ORD0457,30-07-2024,CUST550,Customer_364,Female,33,Mumbai,North,PROD98,Product_95,Fashion,6,429.9,2579.4,Debit Card,75.65
+ORD0458,24-05-2025,CUST909,Customer_469,Other,58,Bangalore,South,PROD93,Product_193,Books,6,1344.11,8064.66,Debit Card,12.07
+ORD0459,02-11-2023,CUST464,Customer_369,Other,53,Mumbai,East,PROD149,Product_146,Sports,2,715.39,1430.78,Net Banking,25.73
+ORD0460,06-05-2023,CUST531,Customer_113,Female,55,Ahmedabad,North,PROD128,Product_115,Home Appliances,10,1626.31,16263.1,Credit Card,16.06
+ORD0461,08-04-2023,CUST405,Customer_362,Other,55,Ahmedabad,East,PROD160,Product_105,Toys,5,1525.57,7627.85,Cash on Delivery,21.04
+ORD0462,12-03-2025,CUST896,Customer_493,Other,57,Ahmedabad,South,PROD133,Product_190,Books,10,843.41,8434.1,Debit Card,85.08
+ORD0463,08-01-2025,CUST691,Customer_55,Female,20,Chennai,South,PROD98,Product_2,Electronics,9,871.55,7843.95,Debit Card,88.95
+ORD0464,01-05-2024,CUST462,Customer_4,Male,49,Chennai,West,PROD107,Product_133,Home Appliances,9,1452.26,13070.34,UPI,4.51
+ORD0465,04-06-2023,CUST607,Customer_178,Female,38,Bangalore,North,PROD123,Product_23,Sports,2,737.59,1475.18,Credit Card,65.77
+ORD0466,23-01-2025,CUST162,Customer_314,Female,39,Mumbai,West,PROD89,Product_14,Fashion,5,1373.39,6866.95,Credit Card,82.5
+ORD0467,12-09-2025,CUST170,Customer_233,Female,60,Delhi,North,PROD113,Product_64,Home Appliances,2,1034.19,2068.38,UPI,31.71
+ORD0468,15-04-2024,CUST581,Customer_336,Male,47,Delhi,East,PROD109,Product_166,Books,9,1563.75,14073.75,Net Banking,34.33
+ORD0469,03-01-2025,CUST263,Customer_183,Male,58,Pune,West,PROD6,Product_31,Books,8,906.1,7248.8,Cash on Delivery,17.79
+ORD0470,04-01-2025,CUST409,Customer_198,Other,21,Delhi,West,PROD133,Product_4,Electronics,1,1655.89,1655.89,Cash on Delivery,27.36
+ORD0471,05-09-2025,CUST392,Customer_187,Other,44,Kolkata,North,PROD51,Product_120,Books,7,1244.85,8713.95,Credit Card,10.96
+ORD0472,23-01-2023,CUST483,Customer_372,Other,35,Mumbai,East,PROD102,Product_113,Beauty,5,828.78,4143.9,UPI,27.88
+ORD0473,10-09-2023,CUST169,Customer_464,Other,19,Delhi,East,PROD83,Product_59,Toys,8,850.99,6807.92,Debit Card,94.28
+ORD0474,20-12-2023,CUST842,Customer_490,Male,54,Hyderabad,North,PROD4,Product_143,Toys,10,1022.31,10223.1,Credit Card,43.39
+ORD0475,19-07-2025,CUST149,Customer_268,Other,25,Kolkata,West,PROD128,Product_188,Beauty,10,1318.55,13185.5,Net Banking,15.3
+ORD0476,29-08-2025,CUST171,Customer_142,Female,21,Bangalore,South,PROD20,Product_33,Books,9,1629.1,14661.9,Debit Card,79.44
+ORD0477,07-03-2025,CUST120,Customer_300,Other,39,Pune,South,PROD148,Product_153,Toys,4,110.6,442.4,UPI,94.11
+ORD0478,04-09-2025,CUST964,Customer_56,Male,24,Ahmedabad,South,PROD183,Product_181,Electronics,4,752.8,3011.2,Debit Card,4.54
+ORD0479,02-05-2025,CUST271,Customer_459,Female,33,Bangalore,West,PROD44,Product_122,Fashion,2,1384.31,2768.62,Credit Card,35.11
+ORD0480,26-01-2025,CUST182,Customer_43,Female,48,Ahmedabad,East,PROD121,Product_129,Beauty,2,1320.56,2641.12,Debit Card,56.74
+ORD0481,13-05-2024,CUST454,Customer_222,Female,26,Mumbai,North,PROD178,Product_173,Sports,4,1428.47,5713.88,Net Banking,79.81
+ORD0482,13-09-2023,CUST211,Customer_168,Male,21,Kolkata,North,PROD53,Product_84,Fashion,9,1327.07,11943.63,Cash on Delivery,43.99
+ORD0483,28-12-2023,CUST275,Customer_12,Male,35,Kolkata,East,PROD129,Product_117,Fashion,8,446.03,3568.24,Credit Card,95.04
+ORD0484,05-11-2024,CUST394,Customer_282,Other,20,Mumbai,East,PROD166,Product_73,Toys,10,1346.55,13465.5,UPI,76.69
+ORD0485,06-07-2024,CUST758,Customer_353,Female,49,Ahmedabad,North,PROD181,Product_39,Electronics,2,1987.01,3974.02,UPI,3.15
+ORD0486,15-05-2023,CUST802,Customer_201,Female,50,Chennai,South,PROD94,Product_12,Fashion,6,1033.9,6203.4,Cash on Delivery,53.5
+ORD0487,15-01-2023,CUST606,Customer_449,Other,34,Pune,North,PROD90,Product_177,Home Appliances,8,449.14,3593.12,Net Banking,65.63
+ORD0488,23-10-2024,CUST151,Customer_414,Other,27,Ahmedabad,South,PROD173,Product_43,Fashion,1,1927.88,1927.88,Net Banking,13.6
+ORD0489,19-10-2024,CUST220,Customer_323,Male,43,Kolkata,West,PROD132,Product_24,Toys,3,1647.07,4941.21,Cash on Delivery,52.07
+ORD0490,07-08-2023,CUST324,Customer_322,Other,53,Delhi,North,PROD61,Product_177,Toys,9,540.5,4864.5,Debit Card,4.81
+ORD0491,19-04-2024,CUST827,Customer_214,Other,58,Delhi,East,PROD87,Product_155,Toys,7,755.89,5291.23,Cash on Delivery,62.72
+ORD0492,04-07-2023,CUST667,Customer_251,Male,21,Bangalore,East,PROD101,Product_191,Books,1,1563.97,1563.97,Net Banking,61.92
+ORD0493,29-05-2025,CUST483,Customer_285,Female,42,Bangalore,South,PROD69,Product_92,Books,9,471.62,4244.58,Credit Card,85.6
+ORD0494,07-09-2024,CUST734,Customer_454,Other,49,Delhi,West,PROD120,Product_24,Electronics,1,172.48,172.48,Net Banking,56.82
+ORD0495,05-05-2024,CUST417,Customer_336,Other,51,Kolkata,South,PROD178,Product_195,Beauty,1,918.06,918.06,UPI,17.51
+ORD0496,24-10-2024,CUST567,Customer_494,Male,51,Ahmedabad,East,PROD136,Product_20,Books,4,599.34,2397.36,Credit Card,46.81
+ORD0497,18-05-2023,CUST181,Customer_198,Other,64,Bangalore,South,PROD147,Product_76,Toys,3,1987.71,5963.13,Net Banking,3.87
+ORD0498,15-10-2024,CUST185,Customer_367,Other,54,Kolkata,South,PROD73,Product_148,Sports,3,1304.02,3912.06,Debit Card,88.79
+ORD0499,13-02-2024,CUST733,Customer_166,Other,33,Bangalore,West,PROD94,Product_162,Beauty,1,1007.94,1007.94,Net Banking,98.03
+ORD0500,29-03-2023,CUST581,Customer_358,Other,24,Hyderabad,North,PROD95,Product_111,Beauty,9,350.19,3151.71,Cash on Delivery,69.68
+ORD0501,04-08-2025,CUST324,Customer_318,Male,20,Bangalore,East,PROD156,Product_191,Fashion,6,352.2,2113.2,Debit Card,18.31
+ORD0502,06-07-2025,CUST783,Customer_456,Female,48,Kolkata,West,PROD190,Product_10,Toys,8,1590.94,12727.52,Cash on Delivery,99.91
+ORD0503,22-02-2025,CUST231,Customer_96,Female,59,Ahmedabad,North,PROD170,Product_114,Toys,3,1479.99,4439.97,Cash on Delivery,50.73
+ORD0504,23-06-2024,CUST149,Customer_322,Female,33,Bangalore,West,PROD82,Product_22,Fashion,8,1771.46,14171.68,Credit Card,96.52
+ORD0505,06-02-2025,CUST325,Customer_115,Male,59,Kolkata,South,PROD85,Product_116,Books,6,1666.91,10001.46,Credit Card,59.22
+ORD0506,22-07-2023,CUST423,Customer_461,Male,37,Kolkata,East,PROD194,Product_128,Fashion,4,571.13,2284.52,Debit Card,69.83
+ORD0507,18-10-2023,CUST382,Customer_125,Female,29,Kolkata,East,PROD126,Product_38,Fashion,8,1494.08,11952.64,Net Banking,16.42
+ORD0508,28-02-2023,CUST643,Customer_142,Other,31,Bangalore,North,PROD91,Product_150,Fashion,10,1747.66,17476.6,Net Banking,93.36
+ORD0509,12-11-2024,CUST939,Customer_198,Male,51,Delhi,North,PROD140,Product_120,Toys,7,164.73,1153.11,Net Banking,6.65
+ORD0510,14-05-2025,CUST429,Customer_321,Male,27,Mumbai,East,PROD97,Product_15,Books,3,763.8,2291.4,UPI,34.57
+ORD0511,07-08-2024,CUST248,Customer_411,Other,63,Kolkata,South,PROD24,Product_145,Sports,6,1336.35,8018.1,Net Banking,96.68
+ORD0512,24-06-2025,CUST688,Customer_3,Female,56,Mumbai,East,PROD94,Product_156,Fashion,8,277.51,2220.08,Net Banking,91.25
+ORD0513,05-01-2023,CUST103,Customer_181,Male,36,Pune,East,PROD161,Product_197,Sports,9,662.46,5962.14,Cash on Delivery,25.15
+ORD0514,05-03-2023,CUST675,Customer_160,Female,57,Kolkata,South,PROD196,Product_36,Toys,6,1040.03,6240.18,Debit Card,30.48
+ORD0515,14-03-2023,CUST339,Customer_99,Female,57,Mumbai,East,PROD16,Product_112,Sports,4,880.68,3522.72,Credit Card,1.73
+ORD0516,01-07-2024,CUST809,Customer_471,Male,28,Hyderabad,East,PROD138,Product_68,Fashion,9,676,6084,Credit Card,71.78
+ORD0517,24-12-2024,CUST524,Customer_30,Other,33,Chennai,West,PROD127,Product_110,Toys,3,1712.3,5136.9,Net Banking,21.89
+ORD0518,24-05-2025,CUST479,Customer_16,Male,61,Mumbai,West,PROD114,Product_59,Home Appliances,1,791.65,791.65,Net Banking,5.43
+ORD0519,13-07-2025,CUST554,Customer_474,Other,39,Bangalore,East,PROD192,Product_158,Home Appliances,10,1030.46,10304.6,Debit Card,92.41
+ORD0520,10-06-2023,CUST437,Customer_233,Male,50,Chennai,North,PROD47,Product_85,Books,6,380.52,2283.12,Credit Card,74.56
+ORD0521,23-02-2024,CUST532,Customer_139,Female,45,Kolkata,East,PROD23,Product_69,Sports,4,981.12,3924.48,Credit Card,84.98
+ORD0522,30-03-2023,CUST914,Customer_98,Male,49,Bangalore,East,PROD165,Product_124,Sports,7,1241.96,8693.72,Debit Card,82.15
+ORD0523,11-09-2025,CUST799,Customer_77,Male,25,Delhi,West,PROD64,Product_41,Electronics,7,341.56,2390.92,UPI,26.31
+ORD0524,02-06-2023,CUST455,Customer_474,Female,39,Ahmedabad,North,PROD175,Product_116,Books,5,1635.93,8179.65,UPI,73.49
+ORD0525,28-10-2023,CUST524,Customer_221,Other,59,Delhi,West,PROD165,Product_125,Fashion,2,540.47,1080.94,Cash on Delivery,54.96
+ORD0526,11-06-2024,CUST519,Customer_486,Other,22,Bangalore,East,PROD3,Product_98,Sports,5,687.42,3437.1,Debit Card,56.96
+ORD0527,08-12-2024,CUST604,Customer_426,Other,64,Chennai,East,PROD23,Product_20,Beauty,10,1072.63,10726.3,Net Banking,39.76
+ORD0528,13-11-2023,CUST958,Customer_310,Female,19,Kolkata,East,PROD69,Product_127,Books,2,952.89,1905.78,Credit Card,59.24
+ORD0529,25-09-2024,CUST544,Customer_234,Other,31,Delhi,North,PROD88,Product_5,Sports,2,768.2,1536.4,UPI,87.07
+ORD0530,19-05-2024,CUST387,Customer_167,Male,53,Hyderabad,East,PROD133,Product_130,Electronics,2,319.17,638.34,Cash on Delivery,6.27
+ORD0531,19-12-2023,CUST887,Customer_340,Other,63,Kolkata,West,PROD4,Product_155,Books,8,1040.19,8321.52,Credit Card,49.7
+ORD0532,12-10-2024,CUST883,Customer_26,Other,26,Kolkata,North,PROD125,Product_40,Electronics,1,1532.37,1532.37,UPI,52.93
+ORD0533,26-07-2025,CUST252,Customer_263,Other,22,Ahmedabad,East,PROD157,Product_156,Fashion,6,945.32,5671.92,Credit Card,0.86
+ORD0534,13-04-2024,CUST622,Customer_386,Other,55,Bangalore,North,PROD138,Product_106,Toys,2,1718.01,3436.02,UPI,57.86
+ORD0535,10-11-2023,CUST984,Customer_224,Female,21,Pune,South,PROD12,Product_172,Electronics,9,1277.77,11499.93,Debit Card,13.07
+ORD0536,11-04-2023,CUST884,Customer_314,Female,33,Hyderabad,North,PROD66,Product_102,Home Appliances,3,283.09,849.27,Credit Card,88.5
+ORD0537,21-02-2024,CUST738,Customer_229,Other,30,Ahmedabad,West,PROD75,Product_58,Electronics,10,1786.28,17862.8,Credit Card,71.65
+ORD0538,13-04-2023,CUST640,Customer_329,Other,24,Pune,West,PROD103,Product_140,Fashion,3,1344.54,4033.62,Debit Card,71.87
+ORD0539,22-01-2023,CUST866,Customer_29,Other,18,Ahmedabad,East,PROD45,Product_160,Electronics,7,399.01,2793.07,Debit Card,84.42
+ORD0540,21-01-2023,CUST135,Customer_404,Male,21,Kolkata,West,PROD195,Product_187,Beauty,3,818.72,2456.16,Credit Card,42.63
+ORD0541,11-03-2024,CUST869,Customer_463,Male,44,Ahmedabad,East,PROD176,Product_165,Toys,2,1841.18,3682.36,Credit Card,42.43
+ORD0542,11-02-2024,CUST892,Customer_123,Other,36,Hyderabad,South,PROD124,Product_76,Books,1,772.22,772.22,Net Banking,8.12
+ORD0543,17-11-2023,CUST891,Customer_353,Male,28,Pune,East,PROD30,Product_117,Books,2,410.83,821.66,Credit Card,15.01
+ORD0544,24-07-2025,CUST403,Customer_87,Other,36,Mumbai,West,PROD12,Product_66,Home Appliances,1,580.45,580.45,Debit Card,10.95
+ORD0545,16-08-2024,CUST712,Customer_410,Other,60,Chennai,West,PROD71,Product_144,Electronics,4,818.45,3273.8,Cash on Delivery,61.24
+ORD0546,01-12-2024,CUST634,Customer_275,Female,30,Mumbai,East,PROD156,Product_161,Toys,10,281.22,2812.2,Net Banking,49.44
+ORD0547,19-03-2025,CUST714,Customer_64,Male,18,Hyderabad,East,PROD78,Product_68,Beauty,2,252.49,504.98,Credit Card,64.8
+ORD0548,15-06-2024,CUST394,Customer_326,Male,31,Chennai,East,PROD144,Product_141,Fashion,2,1435.15,2870.3,Debit Card,80.01
+ORD0549,29-07-2023,CUST524,Customer_444,Female,43,Delhi,West,PROD151,Product_120,Sports,3,588.48,1765.44,UPI,97.88
+ORD0550,18-07-2024,CUST777,Customer_52,Other,54,Kolkata,North,PROD186,Product_122,Toys,9,102.64,923.76,UPI,55.73
+ORD0551,16-12-2024,CUST437,Customer_124,Male,44,Mumbai,West,PROD69,Product_143,Toys,7,1095.64,7669.48,Debit Card,31.3
+ORD0552,20-05-2024,CUST376,Customer_469,Female,30,Bangalore,West,PROD104,Product_39,Beauty,2,851.36,1702.72,Credit Card,7.76
+ORD0553,06-07-2025,CUST227,Customer_410,Male,56,Bangalore,South,PROD98,Product_37,Electronics,7,1133.44,7934.08,Debit Card,94.62
+ORD0554,03-06-2025,CUST293,Customer_496,Female,44,Bangalore,East,PROD101,Product_145,Sports,9,814.76,7332.84,Cash on Delivery,73.57
+ORD0555,21-07-2024,CUST347,Customer_348,Female,27,Hyderabad,North,PROD137,Product_181,Toys,5,1814.49,9072.45,Net Banking,12.95
+ORD0556,09-01-2025,CUST481,Customer_286,Female,50,Mumbai,South,PROD96,Product_62,Toys,5,1151.36,5756.8,Cash on Delivery,91.34
+ORD0557,05-01-2024,CUST429,Customer_478,Female,24,Mumbai,West,PROD143,Product_62,Fashion,9,1451.3,13061.7,Net Banking,11.14
+ORD0558,02-02-2023,CUST647,Customer_321,Female,61,Delhi,West,PROD136,Product_45,Home Appliances,3,1785.5,5356.5,Net Banking,40.48
+ORD0559,15-01-2025,CUST723,Customer_485,Male,56,Bangalore,West,PROD76,Product_141,Fashion,8,1822.11,14576.88,Net Banking,31.94
+ORD0560,15-01-2025,CUST759,Customer_30,Male,24,Hyderabad,South,PROD197,Product_92,Sports,9,1080.76,9726.84,Net Banking,79.96
+ORD0561,21-08-2024,CUST366,Customer_376,Male,48,Mumbai,West,PROD136,Product_144,Sports,5,853.19,4265.95,Cash on Delivery,18.56
+ORD0562,16-11-2024,CUST627,Customer_393,Other,27,Pune,North,PROD72,Product_124,Toys,6,177.92,1067.52,Net Banking,76.72
+ORD0563,10-06-2024,CUST506,Customer_115,Female,41,Ahmedabad,East,PROD94,Product_99,Books,10,1163.99,11639.9,UPI,44.47
+ORD0564,06-03-2025,CUST333,Customer_370,Male,35,Bangalore,East,PROD138,Product_58,Electronics,1,431.68,431.68,UPI,50.49
+ORD0565,18-02-2025,CUST943,Customer_10,Other,36,Bangalore,South,PROD73,Product_94,Electronics,4,1585,6340,Credit Card,56.82
+ORD0566,09-05-2023,CUST478,Customer_109,Female,40,Delhi,East,PROD62,Product_118,Books,9,178.84,1609.56,Debit Card,33.45
+ORD0567,24-04-2023,CUST615,Customer_442,Female,47,Kolkata,East,PROD20,Product_178,Sports,7,986.04,6902.28,Debit Card,93.7
+ORD0568,24-04-2024,CUST448,Customer_447,Other,50,Chennai,East,PROD67,Product_178,Beauty,2,1388.38,2776.76,UPI,48.01
+ORD0569,16-10-2023,CUST558,Customer_4,Female,59,Mumbai,South,PROD61,Product_66,Fashion,4,900.73,3602.92,Cash on Delivery,0.5
+ORD0570,25-02-2023,CUST739,Customer_51,Male,51,Pune,South,PROD55,Product_141,Fashion,8,1253.12,10024.96,Net Banking,88.31
+ORD0571,18-08-2025,CUST436,Customer_119,Male,62,Chennai,South,PROD48,Product_100,Fashion,10,932.51,9325.1,Cash on Delivery,63.88
+ORD0572,16-02-2023,CUST836,Customer_467,Female,50,Pune,North,PROD157,Product_34,Toys,3,1862.4,5587.2,Cash on Delivery,72.42
+ORD0573,19-12-2024,CUST322,Customer_304,Other,19,Kolkata,South,PROD133,Product_97,Toys,5,773,3865,Credit Card,51.2
+ORD0574,02-08-2024,CUST479,Customer_494,Other,59,Bangalore,North,PROD141,Product_197,Books,6,663.46,3980.76,UPI,34.73
+ORD0575,30-09-2025,CUST627,Customer_217,Other,47,Kolkata,North,PROD36,Product_74,Books,3,1798.42,5395.26,Credit Card,15.03
+ORD0576,25-05-2024,CUST682,Customer_274,Other,41,Delhi,East,PROD144,Product_135,Fashion,9,1661.53,14953.77,Cash on Delivery,44.03
+ORD0577,23-02-2023,CUST155,Customer_471,Other,50,Pune,West,PROD26,Product_185,Fashion,1,1063.28,1063.28,UPI,30.26
+ORD0578,30-07-2023,CUST476,Customer_11,Male,40,Kolkata,West,PROD58,Product_180,Fashion,9,1583.83,14254.47,Cash on Delivery,82.54
+ORD0579,22-09-2023,CUST706,Customer_220,Male,60,Ahmedabad,South,PROD64,Product_184,Toys,3,439.56,1318.68,Net Banking,36.65
+ORD0580,01-12-2024,CUST605,Customer_394,Male,31,Bangalore,East,PROD108,Product_67,Electronics,3,462.48,1387.44,Credit Card,26.46
+ORD0581,31-03-2023,CUST659,Customer_199,Male,56,Hyderabad,North,PROD142,Product_112,Fashion,10,1738.87,17388.7,Credit Card,73.39
+ORD0582,20-01-2025,CUST401,Customer_318,Male,45,Delhi,East,PROD97,Product_101,Sports,10,1769.78,17697.8,Credit Card,42.94
+ORD0583,13-09-2024,CUST928,Customer_89,Male,24,Mumbai,North,PROD32,Product_19,Fashion,1,1035.73,1035.73,UPI,75.65
+ORD0584,29-10-2023,CUST168,Customer_274,Other,46,Pune,East,PROD7,Product_179,Home Appliances,7,571.66,4001.62,Credit Card,27.12
+ORD0585,22-10-2023,CUST302,Customer_366,Male,55,Kolkata,West,PROD104,Product_48,Books,10,1539.1,15391,Credit Card,9.05
+ORD0586,27-04-2025,CUST734,Customer_22,Male,51,Delhi,South,PROD152,Product_170,Fashion,4,1431.31,5725.24,Credit Card,35.3
+ORD0587,31-03-2023,CUST905,Customer_84,Male,31,Ahmedabad,East,PROD192,Product_146,Toys,10,1469.42,14694.2,UPI,33.36
+ORD0588,13-12-2023,CUST204,Customer_263,Female,26,Bangalore,South,PROD177,Product_54,Fashion,3,567.57,1702.71,Debit Card,93.63
+ORD0589,18-03-2025,CUST600,Customer_76,Female,41,Chennai,West,PROD67,Product_130,Books,5,1341.83,6709.15,UPI,27.91
+ORD0590,28-09-2023,CUST780,Customer_131,Female,20,Chennai,North,PROD104,Product_103,Home Appliances,1,663.49,663.49,UPI,28.46
+ORD0591,31-01-2025,CUST734,Customer_325,Other,59,Ahmedabad,South,PROD162,Product_94,Books,9,592.81,5335.29,Net Banking,7.77
+ORD0592,23-07-2023,CUST267,Customer_12,Female,45,Ahmedabad,North,PROD28,Product_93,Sports,3,109.87,329.61,Net Banking,38.95
+ORD0593,23-06-2025,CUST236,Customer_57,Female,36,Chennai,West,PROD169,Product_153,Fashion,6,138.71,832.26,UPI,31.18
+ORD0594,29-03-2023,CUST485,Customer_47,Male,44,Mumbai,East,PROD120,Product_194,Beauty,9,1242.06,11178.54,Cash on Delivery,63.68
+ORD0595,23-10-2024,CUST379,Customer_356,Other,46,Hyderabad,East,PROD142,Product_199,Fashion,3,620.52,1861.56,Debit Card,68.49
+ORD0596,19-01-2024,CUST943,Customer_258,Female,39,Hyderabad,South,PROD186,Product_68,Home Appliances,7,752.84,5269.88,Cash on Delivery,72.62
+ORD0597,31-12-2023,CUST174,Customer_226,Male,42,Hyderabad,West,PROD191,Product_74,Home Appliances,6,523.61,3141.66,Net Banking,63.46
+ORD0598,04-06-2024,CUST171,Customer_292,Female,55,Pune,South,PROD157,Product_49,Beauty,1,469.4,469.4,UPI,34.17
+ORD0599,19-03-2024,CUST437,Customer_356,Male,34,Hyderabad,East,PROD100,Product_176,Toys,2,1570.23,3140.46,UPI,16.93
+ORD0600,20-01-2024,CUST327,Customer_217,Male,49,Mumbai,South,PROD198,Product_12,Home Appliances,6,408.14,2448.84,Net Banking,67.34
+ORD0601,30-12-2024,CUST639,Customer_39,Other,36,Pune,East,PROD2,Product_120,Beauty,8,1256.03,10048.24,Debit Card,22.79
+ORD0602,26-06-2025,CUST184,Customer_199,Male,20,Pune,East,PROD105,Product_139,Fashion,4,1927.88,7711.52,Cash on Delivery,27.95
+ORD0603,11-04-2023,CUST718,Customer_167,Male,55,Mumbai,South,PROD61,Product_145,Home Appliances,9,935.58,8420.22,Cash on Delivery,41.82
+ORD0604,03-02-2025,CUST798,Customer_456,Other,55,Hyderabad,West,PROD52,Product_55,Fashion,6,1027,6162,Cash on Delivery,17.6
+ORD0605,16-12-2024,CUST129,Customer_225,Male,45,Mumbai,West,PROD130,Product_51,Sports,4,420.92,1683.68,Credit Card,89.13
+ORD0606,11-10-2023,CUST445,Customer_111,Other,29,Ahmedabad,West,PROD11,Product_130,Books,9,391.22,3520.98,Cash on Delivery,72.49
+ORD0607,12-09-2024,CUST481,Customer_428,Other,55,Kolkata,East,PROD44,Product_111,Sports,8,1717.42,13739.36,Debit Card,4.92
+ORD0608,17-04-2024,CUST789,Customer_443,Male,53,Ahmedabad,East,PROD97,Product_58,Electronics,5,347.45,1737.25,Debit Card,18.97
+ORD0609,07-03-2024,CUST264,Customer_446,Other,41,Bangalore,South,PROD155,Product_151,Beauty,7,987.49,6912.43,UPI,69.97
+ORD0610,30-03-2024,CUST701,Customer_405,Other,36,Delhi,South,PROD121,Product_131,Toys,9,1686.19,15175.71,UPI,96.88
+ORD0611,20-10-2024,CUST231,Customer_88,Female,23,Hyderabad,North,PROD123,Product_184,Beauty,9,770.16,6931.44,Cash on Delivery,26.41
+ORD0612,30-11-2023,CUST364,Customer_482,Other,34,Ahmedabad,West,PROD53,Product_70,Home Appliances,6,491.76,2950.56,Net Banking,29.4
+ORD0613,12-01-2024,CUST181,Customer_257,Female,57,Bangalore,East,PROD17,Product_22,Fashion,3,1882.2,5646.6,Debit Card,62.1
+ORD0614,22-03-2023,CUST497,Customer_443,Female,40,Delhi,North,PROD55,Product_96,Home Appliances,7,548.88,3842.16,Cash on Delivery,2.21
+ORD0615,05-07-2024,CUST340,Customer_234,Male,54,Ahmedabad,South,PROD32,Product_152,Sports,10,1970.78,19707.8,UPI,58.16
+ORD0616,29-01-2024,CUST502,Customer_231,Other,39,Kolkata,East,PROD167,Product_169,Home Appliances,8,1936.42,15491.36,UPI,43.9
+ORD0617,29-05-2024,CUST578,Customer_237,Other,37,Bangalore,North,PROD18,Product_132,Sports,7,476.12,3332.84,UPI,19.82
+ORD0618,08-11-2024,CUST397,Customer_450,Female,41,Ahmedabad,South,PROD10,Product_60,Books,3,404.22,1212.66,Net Banking,16.23
+ORD0619,16-05-2023,CUST740,Customer_378,Other,27,Mumbai,West,PROD146,Product_42,Electronics,3,1186.78,3560.34,UPI,6.26
+ORD0620,11-07-2023,CUST253,Customer_115,Female,54,Pune,North,PROD26,Product_56,Beauty,1,1450.02,1450.02,Cash on Delivery,67.07
+ORD0621,22-04-2023,CUST278,Customer_376,Other,33,Delhi,West,PROD192,Product_146,Beauty,9,1737.63,15638.67,UPI,14.4
+ORD0622,12-01-2024,CUST802,Customer_443,Other,27,Chennai,West,PROD60,Product_104,Fashion,7,1094.22,7659.54,Credit Card,19.04
+ORD0623,02-12-2024,CUST260,Customer_314,Male,22,Pune,West,PROD35,Product_50,Sports,9,1535.28,13817.52,Debit Card,31.65
+ORD0624,06-07-2024,CUST530,Customer_495,Female,55,Ahmedabad,East,PROD15,Product_174,Fashion,5,178.24,891.2,UPI,98.61
+ORD0625,08-12-2024,CUST872,Customer_96,Other,49,Mumbai,North,PROD42,Product_42,Fashion,9,1329.78,11968.02,Debit Card,39.1
+ORD0626,14-03-2024,CUST321,Customer_319,Male,19,Hyderabad,South,PROD70,Product_170,Toys,9,1882.28,16940.52,Credit Card,92.04
+ORD0627,05-03-2023,CUST424,Customer_81,Female,62,Delhi,West,PROD28,Product_142,Beauty,1,695.15,695.15,Cash on Delivery,72.2
+ORD0628,15-07-2023,CUST949,Customer_250,Other,35,Hyderabad,North,PROD7,Product_197,Sports,6,1039.26,6235.56,Cash on Delivery,92
+ORD0629,22-04-2024,CUST360,Customer_216,Other,23,Pune,North,PROD38,Product_26,Books,10,425.26,4252.6,UPI,6.82
+ORD0630,02-01-2023,CUST368,Customer_441,Female,30,Bangalore,North,PROD64,Product_30,Home Appliances,6,1155.4,6932.4,Cash on Delivery,48.06
+ORD0631,11-04-2025,CUST846,Customer_28,Male,20,Ahmedabad,South,PROD4,Product_51,Beauty,2,499.84,999.68,Net Banking,67.45
+ORD0632,14-03-2025,CUST687,Customer_434,Female,37,Delhi,East,PROD83,Product_10,Electronics,4,1718.96,6875.84,Credit Card,22.25
+ORD0633,20-03-2025,CUST269,Customer_423,Other,21,Hyderabad,East,PROD124,Product_141,Home Appliances,9,724.1,6516.9,Credit Card,62.01
+ORD0634,22-06-2023,CUST462,Customer_79,Other,25,Kolkata,South,PROD2,Product_118,Electronics,1,916.95,916.95,UPI,45.61
+ORD0635,01-04-2024,CUST845,Customer_448,Male,41,Bangalore,East,PROD35,Product_194,Home Appliances,4,176.01,704.04,Net Banking,76.28
+ORD0636,08-10-2024,CUST512,Customer_155,Female,35,Ahmedabad,North,PROD110,Product_149,Electronics,2,1542.44,3084.88,Debit Card,28.21
+ORD0637,01-01-2024,CUST902,Customer_110,Male,31,Delhi,North,PROD121,Product_130,Home Appliances,8,1974.89,15799.12,UPI,3.88
+ORD0638,22-02-2024,CUST705,Customer_209,Male,30,Pune,West,PROD6,Product_33,Sports,3,754.5,2263.5,Debit Card,42.49
+ORD0639,09-03-2024,CUST549,Customer_495,Male,29,Delhi,West,PROD48,Product_119,Sports,1,1425.19,1425.19,Net Banking,18.11
+ORD0640,11-09-2023,CUST484,Customer_203,Male,42,Delhi,South,PROD190,Product_147,Electronics,5,1532.5,7662.5,Cash on Delivery,92.59
+ORD0641,29-06-2025,CUST215,Customer_241,Female,52,Delhi,West,PROD130,Product_126,Books,8,242.02,1936.16,Credit Card,82.76
+ORD0642,15-06-2023,CUST212,Customer_113,Male,46,Kolkata,East,PROD80,Product_41,Sports,9,499.78,4498.02,Debit Card,4.59
+ORD0643,18-08-2023,CUST186,Customer_191,Female,44,Kolkata,West,PROD176,Product_103,Beauty,7,1978.83,13851.81,Credit Card,52.68
+ORD0644,03-08-2023,CUST249,Customer_425,Female,57,Mumbai,North,PROD35,Product_27,Sports,3,1806.58,5419.74,Credit Card,17.28
+ORD0645,19-08-2024,CUST227,Customer_268,Male,44,Ahmedabad,East,PROD102,Product_19,Fashion,6,1355.65,8133.9,Cash on Delivery,9.75
+ORD0646,05-07-2024,CUST929,Customer_157,Female,62,Delhi,West,PROD40,Product_159,Electronics,4,1020.69,4082.76,UPI,18.74
+ORD0647,08-11-2024,CUST757,Customer_390,Other,25,Ahmedabad,South,PROD57,Product_38,Fashion,8,1211.04,9688.32,Debit Card,42.35
+ORD0648,12-02-2024,CUST389,Customer_379,Male,27,Pune,South,PROD129,Product_56,Electronics,5,911.69,4558.45,Debit Card,75.5
+ORD0649,14-02-2025,CUST456,Customer_205,Female,60,Mumbai,West,PROD73,Product_102,Books,8,1293.93,10351.44,Cash on Delivery,18.59
+ORD0650,07-08-2025,CUST851,Customer_310,Female,28,Pune,South,PROD156,Product_187,Toys,1,1856.69,1856.69,Credit Card,20.03
+ORD0651,28-10-2024,CUST967,Customer_91,Female,39,Delhi,East,PROD69,Product_175,Beauty,10,1888.74,18887.4,Credit Card,27.92
+ORD0652,15-03-2024,CUST565,Customer_204,Male,26,Pune,South,PROD72,Product_114,Fashion,10,202.82,2028.2,Cash on Delivery,76.48
+ORD0653,09-06-2024,CUST348,Customer_370,Female,36,Pune,West,PROD58,Product_169,Beauty,2,540.65,1081.3,Debit Card,99.64
+ORD0654,13-04-2024,CUST713,Customer_189,Other,63,Mumbai,North,PROD30,Product_91,Books,7,1408.96,9862.72,Credit Card,9.96
+ORD0655,14-04-2025,CUST180,Customer_47,Female,28,Ahmedabad,North,PROD159,Product_190,Home Appliances,1,250.17,250.17,Debit Card,85.16
+ORD0656,16-11-2023,CUST549,Customer_173,Female,59,Delhi,North,PROD13,Product_165,Sports,3,1085.45,3256.35,Debit Card,88.99
+ORD0657,24-11-2024,CUST158,Customer_204,Female,50,Hyderabad,West,PROD172,Product_9,Toys,10,530.1,5301,Debit Card,22.34
+ORD0658,24-07-2023,CUST928,Customer_342,Male,56,Chennai,West,PROD186,Product_132,Books,3,1992.65,5977.95,Net Banking,76.53
+ORD0659,31-10-2023,CUST769,Customer_324,Male,31,Ahmedabad,North,PROD14,Product_127,Books,4,545.28,2181.12,Credit Card,92.48
+ORD0660,17-04-2024,CUST402,Customer_254,Female,20,Ahmedabad,North,PROD114,Product_59,Fashion,4,331.43,1325.72,Credit Card,23.78
+ORD0661,16-06-2025,CUST619,Customer_252,Female,47,Pune,East,PROD50,Product_152,Toys,10,1076.92,10769.2,Cash on Delivery,32.47
+ORD0662,13-02-2023,CUST386,Customer_186,Other,32,Delhi,South,PROD48,Product_82,Electronics,2,443.54,887.08,Net Banking,10.54
+ORD0663,24-05-2023,CUST510,Customer_132,Female,30,Delhi,South,PROD197,Product_41,Fashion,10,701.02,7010.2,Net Banking,13.42
+ORD0664,15-06-2025,CUST412,Customer_462,Male,65,Chennai,West,PROD142,Product_89,Electronics,5,1922.3,9611.5,Cash on Delivery,22.74
+ORD0665,18-06-2023,CUST744,Customer_222,Other,20,Bangalore,East,PROD187,Product_52,Toys,2,1370.36,2740.72,Net Banking,54.47
+ORD0666,07-03-2024,CUST478,Customer_175,Female,54,Hyderabad,South,PROD120,Product_82,Toys,4,1576.48,6305.92,Credit Card,33.99
+ORD0667,17-09-2023,CUST422,Customer_458,Other,39,Bangalore,West,PROD127,Product_6,Home Appliances,6,1861.17,11167.02,Credit Card,27.59
+ORD0668,28-09-2025,CUST760,Customer_4,Other,54,Mumbai,West,PROD96,Product_148,Books,10,511.53,5115.3,Cash on Delivery,74.18
+ORD0669,28-12-2023,CUST972,Customer_28,Other,52,Hyderabad,North,PROD40,Product_189,Toys,8,1610.44,12883.52,Debit Card,87.67
+ORD0670,06-01-2023,CUST750,Customer_259,Female,58,Bangalore,West,PROD153,Product_62,Fashion,1,110.02,110.02,UPI,92.8
+ORD0671,22-06-2025,CUST432,Customer_335,Other,36,Hyderabad,South,PROD44,Product_44,Sports,10,738.83,7388.3,Cash on Delivery,79.42
+ORD0672,28-06-2023,CUST946,Customer_26,Other,19,Chennai,East,PROD183,Product_38,Fashion,6,1100.45,6602.7,Cash on Delivery,16.34
+ORD0673,16-07-2024,CUST193,Customer_107,Other,28,Ahmedabad,East,PROD56,Product_53,Books,10,567.21,5672.1,Credit Card,98.15
+ORD0674,03-12-2023,CUST674,Customer_478,Male,35,Mumbai,North,PROD91,Product_11,Toys,3,298.36,895.08,Debit Card,4.82
+ORD0675,26-09-2024,CUST188,Customer_105,Male,36,Delhi,East,PROD191,Product_27,Home Appliances,1,871.32,871.32,Credit Card,0.81
+ORD0676,26-10-2024,CUST167,Customer_161,Female,18,Mumbai,South,PROD78,Product_129,Electronics,3,197.39,592.17,UPI,48.07
+ORD0677,29-05-2024,CUST673,Customer_367,Male,58,Chennai,South,PROD136,Product_169,Books,3,384.18,1152.54,Debit Card,86
+ORD0678,24-09-2025,CUST463,Customer_461,Female,21,Chennai,South,PROD48,Product_29,Toys,9,991.54,8923.86,Debit Card,17.64
+ORD0679,03-11-2023,CUST363,Customer_168,Other,43,Hyderabad,West,PROD5,Product_31,Fashion,5,244.75,1223.75,Cash on Delivery,57
+ORD0680,02-08-2023,CUST457,Customer_495,Other,49,Pune,West,PROD74,Product_146,Toys,8,1516.73,12133.84,Credit Card,8.16
+ORD0681,02-02-2023,CUST191,Customer_372,Female,27,Hyderabad,South,PROD85,Product_190,Toys,4,494.1,1976.4,Cash on Delivery,21.62
+ORD0682,14-05-2023,CUST523,Customer_350,Male,45,Pune,North,PROD86,Product_31,Books,1,387.7,387.7,Debit Card,45.18
+ORD0683,03-01-2023,CUST370,Customer_137,Male,51,Mumbai,East,PROD116,Product_81,Fashion,8,757.19,6057.52,Net Banking,72.04
+ORD0684,27-12-2023,CUST617,Customer_439,Male,34,Ahmedabad,South,PROD111,Product_54,Books,6,277.72,1666.32,UPI,51.58
+ORD0685,10-06-2024,CUST524,Customer_204,Female,64,Hyderabad,East,PROD44,Product_155,Sports,4,970.56,3882.24,Net Banking,44.11
+ORD0686,01-08-2024,CUST870,Customer_15,Male,32,Kolkata,West,PROD62,Product_23,Sports,9,1541.66,13874.94,UPI,80.05
+ORD0687,01-02-2025,CUST895,Customer_352,Male,39,Chennai,East,PROD105,Product_128,Beauty,1,1756.91,1756.91,UPI,30.29
+ORD0688,08-02-2023,CUST323,Customer_11,Male,64,Hyderabad,North,PROD90,Product_103,Sports,7,399.47,2796.29,Cash on Delivery,6.91
+ORD0689,02-07-2024,CUST580,Customer_430,Male,21,Ahmedabad,South,PROD200,Product_199,Beauty,7,755.53,5288.71,UPI,55.48
+ORD0690,03-09-2024,CUST297,Customer_5,Other,48,Chennai,West,PROD10,Product_159,Fashion,6,1705.47,10232.82,Debit Card,51.17
+ORD0691,11-12-2023,CUST455,Customer_115,Other,19,Bangalore,North,PROD59,Product_162,Books,8,1643.97,13151.76,Net Banking,45.92
+ORD0692,21-08-2023,CUST582,Customer_137,Male,22,Hyderabad,East,PROD93,Product_115,Electronics,3,608.43,1825.29,Cash on Delivery,37.52
+ORD0693,11-10-2023,CUST753,Customer_65,Male,34,Kolkata,South,PROD18,Product_44,Beauty,3,224.37,673.11,Cash on Delivery,56.77
+ORD0694,11-03-2025,CUST777,Customer_228,Other,57,Bangalore,North,PROD111,Product_18,Electronics,7,763.22,5342.54,Credit Card,3.84
+ORD0695,30-03-2023,CUST735,Customer_482,Female,49,Delhi,South,PROD157,Product_129,Electronics,3,1272.03,3816.09,Net Banking,82.42
+ORD0696,24-04-2023,CUST952,Customer_239,Male,51,Bangalore,North,PROD187,Product_130,Sports,7,574.95,4024.65,UPI,25.61
+ORD0697,23-01-2025,CUST254,Customer_38,Male,19,Bangalore,West,PROD50,Product_188,Toys,10,952.39,9523.9,Credit Card,19.15
+ORD0698,11-08-2024,CUST816,Customer_205,Female,35,Delhi,East,PROD112,Product_165,Toys,8,1623.61,12988.88,Credit Card,64.61
+ORD0699,23-09-2024,CUST851,Customer_33,Female,23,Hyderabad,South,PROD82,Product_34,Fashion,7,1237.1,8659.7,Debit Card,35.16
+ORD0700,29-09-2024,CUST378,Customer_51,Female,26,Pune,South,PROD2,Product_175,Books,10,1009.06,10090.6,Credit Card,64.3
+ORD0701,07-01-2025,CUST598,Customer_222,Other,46,Delhi,South,PROD125,Product_198,Fashion,4,175.52,702.08,UPI,4.33
+ORD0702,11-10-2024,CUST245,Customer_383,Female,63,Pune,North,PROD12,Product_149,Books,9,1578.57,14207.13,Debit Card,14.08
+ORD0703,19-12-2023,CUST428,Customer_45,Male,37,Delhi,North,PROD31,Product_113,Sports,5,1368.24,6841.2,UPI,57.11
+ORD0704,24-03-2024,CUST565,Customer_37,Female,19,Bangalore,East,PROD147,Product_117,Books,2,736.21,1472.42,Cash on Delivery,99.89
+ORD0705,08-03-2023,CUST210,Customer_123,Male,28,Delhi,South,PROD9,Product_48,Electronics,1,464.15,464.15,Net Banking,75.82
+ORD0706,27-09-2025,CUST101,Customer_390,Other,44,Kolkata,East,PROD37,Product_18,Sports,2,934.44,1868.88,Debit Card,72
+ORD0707,29-10-2024,CUST456,Customer_400,Male,19,Ahmedabad,South,PROD67,Product_8,Books,7,1531.12,10717.84,Cash on Delivery,65.11
+ORD0708,28-04-2025,CUST637,Customer_212,Female,28,Ahmedabad,North,PROD7,Product_120,Books,4,417.12,1668.48,Net Banking,58.82
+ORD0709,13-07-2023,CUST475,Customer_417,Female,62,Mumbai,West,PROD113,Product_101,Fashion,4,1741.32,6965.28,Credit Card,14.67
+ORD0710,10-08-2025,CUST965,Customer_313,Male,47,Bangalore,South,PROD180,Product_106,Electronics,7,1767.67,12373.69,Credit Card,3.55
+ORD0711,22-04-2025,CUST611,Customer_385,Other,63,Delhi,South,PROD130,Product_58,Toys,10,1189.21,11892.1,Debit Card,88.17
+ORD0712,12-11-2024,CUST361,Customer_176,Male,65,Bangalore,North,PROD96,Product_56,Beauty,4,254.14,1016.56,Credit Card,13.05
+ORD0713,03-06-2023,CUST117,Customer_389,Male,47,Hyderabad,North,PROD189,Product_63,Sports,9,741.05,6669.45,Net Banking,13.79
+ORD0714,14-04-2025,CUST337,Customer_473,Male,35,Delhi,West,PROD23,Product_82,Electronics,10,1329.6,13296,Net Banking,72.45
+ORD0715,01-01-2024,CUST289,Customer_470,Male,27,Delhi,East,PROD151,Product_166,Fashion,1,1582.85,1582.85,Cash on Delivery,47.1
+ORD0716,30-08-2025,CUST566,Customer_201,Male,33,Mumbai,West,PROD31,Product_110,Sports,3,1058.4,3175.2,Cash on Delivery,32.87
+ORD0717,23-12-2023,CUST138,Customer_155,Other,30,Hyderabad,South,PROD94,Product_53,Home Appliances,7,1452.34,10166.38,Debit Card,12.69
+ORD0718,13-04-2025,CUST840,Customer_243,Female,26,Ahmedabad,East,PROD27,Product_190,Sports,5,330.3,1651.5,Debit Card,12.15
+ORD0719,02-03-2025,CUST728,Customer_5,Female,34,Bangalore,South,PROD127,Product_176,Toys,3,258.39,775.17,Debit Card,71.89
+ORD0720,28-03-2024,CUST522,Customer_368,Other,28,Pune,East,PROD179,Product_34,Fashion,6,939.1,5634.6,Credit Card,78.03
+ORD0721,27-12-2024,CUST719,Customer_130,Other,33,Chennai,South,PROD166,Product_43,Books,4,1027.57,4110.28,Debit Card,38.35
+ORD0722,13-04-2024,CUST144,Customer_47,Female,36,Hyderabad,North,PROD22,Product_157,Books,3,1455.59,4366.77,Net Banking,91.79
+ORD0723,28-01-2024,CUST109,Customer_477,Female,40,Delhi,North,PROD103,Product_190,Electronics,1,1916.61,1916.61,UPI,91.62
+ORD0724,04-09-2025,CUST751,Customer_87,Other,26,Chennai,East,PROD34,Product_106,Books,10,1681.87,16818.7,Debit Card,92.35
+ORD0725,19-03-2023,CUST808,Customer_468,Male,49,Kolkata,West,PROD147,Product_169,Electronics,2,542.92,1085.84,Debit Card,69.62
+ORD0726,02-08-2023,CUST730,Customer_499,Male,39,Pune,West,PROD12,Product_15,Beauty,5,1748.56,8742.8,Debit Card,1.97
+ORD0727,13-08-2025,CUST585,Customer_270,Male,50,Hyderabad,North,PROD143,Product_46,Fashion,3,280.77,842.31,Debit Card,33.97
+ORD0728,10-02-2024,CUST778,Customer_268,Male,65,Ahmedabad,North,PROD75,Product_148,Fashion,1,1046.78,1046.78,Net Banking,85.83
+ORD0729,22-04-2025,CUST595,Customer_252,Male,18,Mumbai,West,PROD20,Product_108,Sports,10,1288.58,12885.8,UPI,41.89
+ORD0730,12-08-2024,CUST234,Customer_178,Female,28,Pune,South,PROD179,Product_73,Fashion,6,1333.49,8000.94,Credit Card,25.79
+ORD0731,25-02-2024,CUST934,Customer_46,Male,61,Pune,West,PROD197,Product_161,Electronics,1,994.5,994.5,Credit Card,25.94
+ORD0732,02-06-2023,CUST169,Customer_298,Female,47,Kolkata,North,PROD37,Product_197,Electronics,2,1367.04,2734.08,UPI,38.38
+ORD0733,18-08-2025,CUST263,Customer_193,Other,57,Pune,North,PROD131,Product_91,Toys,8,799.07,6392.56,Net Banking,94.62
+ORD0734,09-04-2025,CUST132,Customer_113,Other,31,Delhi,North,PROD36,Product_198,Home Appliances,2,962.6,1925.2,Credit Card,64.55
+ORD0735,24-01-2024,CUST944,Customer_353,Female,20,Bangalore,East,PROD65,Product_164,Sports,6,1639.69,9838.14,Debit Card,8.64
+ORD0736,25-02-2024,CUST866,Customer_420,Female,60,Bangalore,North,PROD26,Product_30,Electronics,2,446.67,893.34,Credit Card,14.58
+ORD0737,09-04-2025,CUST259,Customer_46,Male,38,Mumbai,South,PROD20,Product_128,Beauty,4,389.08,1556.32,Net Banking,19.1
+ORD0738,16-07-2024,CUST679,Customer_407,Other,21,Chennai,East,PROD166,Product_121,Books,5,1675.96,8379.8,Net Banking,59.64
+ORD0739,01-07-2023,CUST410,Customer_291,Female,39,Pune,South,PROD147,Product_8,Toys,8,543.86,4350.88,Net Banking,51.8
+ORD0740,04-05-2024,CUST187,Customer_363,Female,26,Delhi,North,PROD105,Product_39,Electronics,8,1999.54,15996.32,Cash on Delivery,12.91
+ORD0741,07-09-2024,CUST597,Customer_76,Other,21,Bangalore,North,PROD169,Product_171,Beauty,8,218.3,1746.4,Net Banking,4.96
+ORD0742,16-08-2023,CUST309,Customer_336,Male,60,Chennai,West,PROD170,Product_25,Home Appliances,6,378.05,2268.3,Net Banking,52.21
+ORD0743,16-04-2025,CUST246,Customer_187,Male,48,Hyderabad,West,PROD93,Product_38,Sports,10,901.92,9019.2,Credit Card,93.81
+ORD0744,18-06-2024,CUST672,Customer_244,Male,28,Pune,East,PROD31,Product_78,Electronics,3,1380.25,4140.75,Net Banking,18.81
+ORD0745,06-07-2023,CUST854,Customer_227,Male,50,Kolkata,East,PROD64,Product_178,Beauty,10,1937.58,19375.8,Net Banking,20.26
+ORD0746,29-04-2025,CUST312,Customer_467,Male,32,Bangalore,West,PROD195,Product_159,Electronics,10,1341.1,13411,Net Banking,8.49
+ORD0747,05-03-2025,CUST816,Customer_3,Other,62,Chennai,North,PROD16,Product_121,Fashion,10,173.51,1735.1,UPI,18.85
+ORD0748,11-08-2025,CUST935,Customer_405,Female,41,Bangalore,North,PROD175,Product_108,Books,3,1435.26,4305.78,Cash on Delivery,14.44
+ORD0749,08-05-2025,CUST969,Customer_461,Female,61,Kolkata,East,PROD146,Product_83,Books,6,1489.12,8934.72,Net Banking,14.35
+ORD0750,08-10-2024,CUST175,Customer_340,Other,54,Mumbai,West,PROD179,Product_80,Books,5,1893.81,9469.05,Credit Card,73.05
+ORD0751,19-02-2025,CUST383,Customer_43,Other,49,Chennai,South,PROD4,Product_65,Books,5,620.52,3102.6,Cash on Delivery,19.18
+ORD0752,07-05-2025,CUST605,Customer_463,Female,53,Chennai,South,PROD126,Product_102,Electronics,9,1393.32,12539.88,Debit Card,4.26
+ORD0753,15-01-2025,CUST408,Customer_470,Female,38,Chennai,South,PROD67,Product_110,Toys,9,1663.23,14969.07,Net Banking,97.56
+ORD0754,08-08-2025,CUST668,Customer_173,Other,56,Mumbai,West,PROD192,Product_177,Sports,5,151.94,759.7,Net Banking,82.15
+ORD0755,01-01-2023,CUST964,Customer_103,Female,63,Chennai,East,PROD59,Product_92,Fashion,6,452.89,2717.34,Credit Card,49.25
+ORD0756,08-11-2024,CUST199,Customer_110,Other,18,Mumbai,North,PROD134,Product_54,Electronics,2,1387.11,2774.22,Debit Card,49.72
+ORD0757,23-09-2024,CUST730,Customer_58,Other,50,Pune,East,PROD131,Product_3,Fashion,1,792.62,792.62,UPI,26.79
+ORD0758,03-09-2023,CUST190,Customer_8,Female,23,Ahmedabad,South,PROD110,Product_184,Toys,10,1793.03,17930.3,UPI,1.93
+ORD0759,23-04-2025,CUST752,Customer_103,Female,49,Kolkata,East,PROD17,Product_33,Sports,3,680.4,2041.2,Debit Card,61.1
+ORD0760,28-08-2024,CUST637,Customer_354,Other,47,Hyderabad,South,PROD130,Product_66,Home Appliances,3,1306.24,3918.72,UPI,46.61
+ORD0761,10-09-2025,CUST987,Customer_412,Male,62,Pune,West,PROD168,Product_196,Fashion,10,279.71,2797.1,Net Banking,41.11
+ORD0762,21-05-2024,CUST227,Customer_175,Male,51,Hyderabad,East,PROD118,Product_166,Books,9,1339.76,12057.84,UPI,62
+ORD0763,02-07-2025,CUST840,Customer_143,Female,39,Ahmedabad,East,PROD108,Product_73,Electronics,3,1035.56,3106.68,Credit Card,4.96
+ORD0764,12-09-2025,CUST784,Customer_184,Other,46,Pune,West,PROD15,Product_147,Fashion,7,1823.31,12763.17,UPI,3.29
+ORD0765,27-09-2023,CUST338,Customer_468,Other,28,Hyderabad,East,PROD22,Product_34,Electronics,8,799.74,6397.92,Debit Card,61.02
+ORD0766,21-09-2023,CUST108,Customer_344,Male,62,Chennai,North,PROD140,Product_171,Electronics,4,1075.15,4300.6,Debit Card,65.71
+ORD0767,09-11-2024,CUST355,Customer_264,Female,35,Hyderabad,North,PROD166,Product_45,Home Appliances,9,237.96,2141.64,Credit Card,90.3
+ORD0768,19-03-2023,CUST172,Customer_391,Male,30,Hyderabad,South,PROD170,Product_115,Electronics,6,669.83,4018.98,Debit Card,84.14
+ORD0769,18-02-2023,CUST198,Customer_363,Other,61,Pune,North,PROD115,Product_178,Beauty,7,1823.42,12763.94,Debit Card,22.4
+ORD0770,13-05-2025,CUST910,Customer_419,Other,20,Chennai,East,PROD174,Product_79,Toys,1,1133.05,1133.05,UPI,54.62
+ORD0771,08-09-2024,CUST697,Customer_444,Other,57,Ahmedabad,West,PROD11,Product_15,Toys,8,588.99,4711.92,UPI,5.25
+ORD0772,23-09-2025,CUST754,Customer_244,Other,26,Mumbai,East,PROD75,Product_122,Fashion,5,960.37,4801.85,UPI,36.37
+ORD0773,10-05-2024,CUST266,Customer_55,Male,30,Mumbai,North,PROD5,Product_186,Fashion,9,635.99,5723.91,Cash on Delivery,69.21
+ORD0774,10-08-2023,CUST221,Customer_67,Other,18,Delhi,West,PROD88,Product_63,Electronics,8,942.31,7538.48,Cash on Delivery,0.36
+ORD0775,29-05-2025,CUST524,Customer_437,Male,22,Chennai,North,PROD57,Product_25,Beauty,4,1515.32,6061.28,Credit Card,27.55
+ORD0776,30-07-2025,CUST614,Customer_193,Female,24,Kolkata,South,PROD6,Product_164,Fashion,1,1462.97,1462.97,Debit Card,32
+ORD0777,09-06-2023,CUST434,Customer_181,Female,50,Hyderabad,East,PROD100,Product_174,Home Appliances,9,592.31,5330.79,UPI,27.55
+ORD0778,20-05-2023,CUST314,Customer_486,Male,64,Bangalore,North,PROD80,Product_4,Sports,8,479.88,3839.04,Debit Card,26.99
+ORD0779,12-08-2024,CUST523,Customer_7,Female,48,Ahmedabad,West,PROD150,Product_159,Beauty,5,708.12,3540.6,Net Banking,35.56
+ORD0780,12-10-2023,CUST731,Customer_95,Female,46,Ahmedabad,East,PROD60,Product_9,Toys,4,901.65,3606.6,Debit Card,23.92
+ORD0781,26-05-2023,CUST216,Customer_17,Other,21,Mumbai,West,PROD59,Product_183,Beauty,1,1048.83,1048.83,Debit Card,34.78
+ORD0782,28-07-2023,CUST623,Customer_74,Female,32,Kolkata,East,PROD25,Product_198,Electronics,3,434.38,1303.14,Cash on Delivery,56.08
+ORD0783,29-10-2024,CUST717,Customer_196,Other,38,Ahmedabad,North,PROD97,Product_149,Fashion,6,1868.36,11210.16,UPI,63.19
+ORD0784,01-01-2025,CUST348,Customer_2,Other,58,Bangalore,East,PROD101,Product_177,Fashion,8,413.91,3311.28,Net Banking,44.44
+ORD0785,12-07-2023,CUST642,Customer_26,Male,38,Ahmedabad,West,PROD164,Product_47,Sports,10,1504.64,15046.4,Cash on Delivery,59.39
+ORD0786,26-04-2025,CUST109,Customer_377,Male,49,Ahmedabad,South,PROD7,Product_173,Toys,2,613.38,1226.76,Credit Card,36.33
+ORD0787,16-08-2025,CUST946,Customer_207,Other,46,Mumbai,South,PROD145,Product_121,Fashion,5,972.03,4860.15,Cash on Delivery,77.78
+ORD0788,08-05-2024,CUST952,Customer_28,Male,38,Chennai,East,PROD96,Product_142,Beauty,3,679.33,2037.99,UPI,9.24
+ORD0789,30-08-2025,CUST147,Customer_368,Other,61,Pune,East,PROD137,Product_88,Toys,4,1831.18,7324.72,Debit Card,10.06
+ORD0790,22-02-2024,CUST666,Customer_494,Female,60,Kolkata,West,PROD115,Product_17,Beauty,8,437.57,3500.56,UPI,58.27
+ORD0791,12-09-2025,CUST875,Customer_118,Male,48,Kolkata,East,PROD67,Product_1,Toys,2,1440.03,2880.06,Credit Card,69.45
+ORD0792,30-07-2023,CUST143,Customer_171,Male,31,Pune,East,PROD150,Product_100,Fashion,9,1019.1,9171.9,Net Banking,80.92
+ORD0793,10-05-2023,CUST353,Customer_212,Male,60,Pune,East,PROD89,Product_151,Beauty,6,187.1,1122.6,Debit Card,40.11
+ORD0794,21-04-2023,CUST865,Customer_165,Male,20,Ahmedabad,East,PROD155,Product_15,Toys,3,914.53,2743.59,Debit Card,80.53
+ORD0795,13-01-2024,CUST578,Customer_96,Female,63,Mumbai,South,PROD182,Product_105,Sports,2,1446.68,2893.36,Cash on Delivery,61.33
+ORD0796,24-10-2023,CUST882,Customer_210,Female,65,Chennai,North,PROD178,Product_20,Sports,5,180.98,904.9,UPI,92.56
+ORD0797,01-09-2023,CUST669,Customer_123,Other,31,Chennai,North,PROD166,Product_1,Toys,5,839.88,4199.4,Debit Card,3.73
+ORD0798,13-12-2024,CUST892,Customer_59,Male,58,Bangalore,South,PROD190,Product_94,Home Appliances,1,1073.43,1073.43,Credit Card,75.19
+ORD0799,06-12-2023,CUST169,Customer_22,Male,45,Delhi,South,PROD168,Product_137,Fashion,1,1860.34,1860.34,Net Banking,25.36
+ORD0800,25-09-2024,CUST206,Customer_279,Female,31,Mumbai,East,PROD45,Product_20,Electronics,4,228.68,914.72,Debit Card,41.74
+ORD0801,14-01-2023,CUST380,Customer_123,Female,52,Hyderabad,South,PROD199,Product_100,Books,7,536.36,3754.52,Cash on Delivery,54.93
+ORD0802,05-01-2024,CUST998,Customer_297,Male,38,Hyderabad,West,PROD7,Product_197,Toys,5,1974.28,9871.4,Debit Card,36.31
+ORD0803,23-06-2025,CUST172,Customer_481,Male,19,Pune,South,PROD62,Product_2,Home Appliances,3,747.66,2242.98,Credit Card,14.99
+ORD0804,29-05-2025,CUST944,Customer_480,Female,18,Mumbai,West,PROD172,Product_191,Sports,3,359.62,1078.86,Credit Card,51.32
+ORD0805,06-03-2024,CUST314,Customer_111,Male,40,Kolkata,South,PROD18,Product_54,Fashion,4,636.56,2546.24,Credit Card,57.22
+ORD0806,08-02-2024,CUST144,Customer_198,Other,21,Chennai,West,PROD52,Product_144,Sports,4,1623.51,6494.04,Credit Card,90.06
+ORD0807,27-12-2024,CUST687,Customer_484,Other,53,Pune,North,PROD163,Product_66,Toys,1,1803.8,1803.8,Net Banking,45.19
+ORD0808,19-04-2023,CUST530,Customer_306,Male,48,Mumbai,East,PROD193,Product_147,Toys,9,877.09,7893.81,Credit Card,48.81
+ORD0809,19-10-2023,CUST524,Customer_73,Female,50,Chennai,West,PROD23,Product_104,Fashion,7,159.95,1119.65,Debit Card,15.72
+ORD0810,21-03-2023,CUST542,Customer_288,Other,60,Hyderabad,West,PROD95,Product_124,Beauty,5,472.95,2364.75,UPI,27.69
+ORD0811,12-08-2023,CUST891,Customer_224,Other,24,Mumbai,North,PROD177,Product_28,Books,10,1253.68,12536.8,Debit Card,44.99
+ORD0812,24-01-2023,CUST690,Customer_72,Female,42,Ahmedabad,West,PROD168,Product_169,Home Appliances,8,450.34,3602.72,Debit Card,55.98
+ORD0813,02-01-2023,CUST318,Customer_272,Female,55,Chennai,North,PROD10,Product_36,Fashion,3,675.1,2025.3,Credit Card,83.62
+ORD0814,25-07-2024,CUST696,Customer_386,Female,51,Chennai,East,PROD49,Product_152,Electronics,4,479.99,1919.96,Debit Card,80.23
+ORD0815,29-01-2025,CUST897,Customer_272,Female,43,Mumbai,North,PROD18,Product_11,Fashion,3,664.97,1994.91,Net Banking,12.44
+ORD0816,14-03-2024,CUST337,Customer_370,Other,25,Kolkata,West,PROD63,Product_111,Fashion,10,1171.44,11714.4,Cash on Delivery,68.66
+ORD0817,24-03-2024,CUST247,Customer_110,Other,26,Ahmedabad,East,PROD75,Product_112,Books,1,1821.02,1821.02,Cash on Delivery,25.19
+ORD0818,25-12-2023,CUST859,Customer_367,Other,21,Delhi,East,PROD177,Product_115,Books,7,1912.96,13390.72,Cash on Delivery,27.88
+ORD0819,14-08-2025,CUST236,Customer_201,Male,39,Kolkata,West,PROD177,Product_154,Books,7,536.41,3754.87,Debit Card,65.41
+ORD0820,07-09-2025,CUST960,Customer_420,Male,35,Kolkata,North,PROD180,Product_111,Beauty,8,1324.93,10599.44,Cash on Delivery,74.69
+ORD0821,28-08-2024,CUST919,Customer_131,Male,65,Mumbai,East,PROD108,Product_75,Home Appliances,7,1410.23,9871.61,Cash on Delivery,4.42
+ORD0822,07-06-2024,CUST942,Customer_492,Male,46,Chennai,North,PROD20,Product_161,Home Appliances,5,271.85,1359.25,Cash on Delivery,16.86
+ORD0823,02-12-2023,CUST801,Customer_27,Other,23,Pune,South,PROD142,Product_194,Home Appliances,10,1417.15,14171.5,Debit Card,37.07
+ORD0824,05-01-2023,CUST306,Customer_318,Other,28,Chennai,West,PROD62,Product_57,Books,7,1579.1,11053.7,Net Banking,32.94
+ORD0825,23-01-2025,CUST591,Customer_70,Male,21,Delhi,East,PROD106,Product_167,Sports,6,1967.16,11802.96,Credit Card,34.52
+ORD0826,23-03-2023,CUST402,Customer_318,Female,64,Bangalore,South,PROD168,Product_96,Fashion,9,609.97,5489.73,UPI,63.12
+ORD0827,30-08-2023,CUST733,Customer_136,Male,23,Kolkata,West,PROD182,Product_140,Books,7,1655.38,11587.66,UPI,60.67
+ORD0828,01-12-2023,CUST519,Customer_125,Male,53,Delhi,South,PROD192,Product_198,Books,8,767.65,6141.2,Debit Card,46.61
+ORD0829,17-01-2025,CUST385,Customer_91,Other,32,Delhi,South,PROD10,Product_47,Fashion,3,1049.72,3149.16,UPI,0.39
+ORD0830,19-01-2023,CUST957,Customer_55,Male,65,Mumbai,East,PROD56,Product_154,Electronics,6,684.91,4109.46,Cash on Delivery,22.22
+ORD0831,07-09-2023,CUST964,Customer_321,Male,26,Mumbai,South,PROD149,Product_47,Electronics,3,1707.63,5122.89,Debit Card,10.82
+ORD0832,21-03-2025,CUST406,Customer_26,Male,34,Mumbai,West,PROD70,Product_11,Fashion,10,321.55,3215.5,Cash on Delivery,86.86
+ORD0833,24-04-2025,CUST237,Customer_332,Other,48,Bangalore,West,PROD102,Product_6,Toys,1,465.26,465.26,Cash on Delivery,61.86
+ORD0834,02-02-2025,CUST211,Customer_434,Other,57,Bangalore,West,PROD169,Product_40,Books,4,1537.21,6148.84,Credit Card,63.59
+ORD0835,27-07-2025,CUST637,Customer_1,Female,41,Mumbai,East,PROD67,Product_39,Home Appliances,9,438.81,3949.29,Credit Card,27.19
+ORD0836,22-07-2024,CUST905,Customer_220,Female,27,Mumbai,South,PROD110,Product_19,Sports,10,982.99,9829.9,Net Banking,68.82
+ORD0837,15-12-2024,CUST978,Customer_151,Female,56,Ahmedabad,West,PROD75,Product_139,Electronics,9,484.02,4356.18,UPI,36.83
+ORD0838,09-04-2024,CUST770,Customer_34,Male,51,Delhi,South,PROD127,Product_38,Home Appliances,8,935.3,7482.4,Cash on Delivery,59.73
+ORD0839,10-08-2023,CUST163,Customer_256,Female,62,Ahmedabad,North,PROD181,Product_34,Beauty,8,1886.21,15089.68,Debit Card,57.02
+ORD0840,19-02-2024,CUST904,Customer_353,Other,63,Hyderabad,East,PROD19,Product_164,Fashion,8,1574.65,12597.2,Credit Card,30.67
+ORD0841,21-01-2023,CUST470,Customer_261,Other,48,Chennai,South,PROD43,Product_34,Fashion,4,385.97,1543.88,UPI,32.92
+ORD0842,16-12-2024,CUST931,Customer_111,Male,41,Mumbai,North,PROD70,Product_12,Toys,10,1032.2,10322,Credit Card,93.21
+ORD0843,14-12-2023,CUST777,Customer_334,Other,60,Hyderabad,West,PROD162,Product_151,Beauty,10,742.61,7426.1,Credit Card,78.85
+ORD0844,17-09-2025,CUST583,Customer_97,Female,63,Ahmedabad,North,PROD200,Product_168,Books,9,1763.46,15871.14,Credit Card,61.94
+ORD0845,03-07-2024,CUST609,Customer_120,Male,62,Bangalore,South,PROD23,Product_126,Home Appliances,7,1688.1,11816.7,Debit Card,38.27
+ORD0846,06-01-2024,CUST553,Customer_226,Female,37,Kolkata,South,PROD51,Product_149,Electronics,10,569.2,5692,Cash on Delivery,31.85
+ORD0847,04-10-2024,CUST176,Customer_93,Other,33,Pune,West,PROD123,Product_149,Sports,4,688.03,2752.12,Credit Card,87.95
+ORD0848,27-03-2025,CUST120,Customer_366,Other,58,Chennai,South,PROD5,Product_20,Fashion,2,593.21,1186.42,Debit Card,41.36
+ORD0849,03-08-2025,CUST416,Customer_377,Male,62,Ahmedabad,West,PROD151,Product_63,Home Appliances,2,315.94,631.88,Credit Card,52.66
+ORD0850,01-04-2023,CUST299,Customer_389,Female,54,Hyderabad,East,PROD192,Product_165,Sports,5,1903.22,9516.1,UPI,26.36
+ORD0851,27-05-2024,CUST627,Customer_30,Male,19,Delhi,South,PROD168,Product_170,Fashion,3,1332.3,3996.9,Cash on Delivery,97.28
+ORD0852,18-07-2024,CUST923,Customer_220,Female,51,Mumbai,South,PROD115,Product_65,Electronics,6,212.05,1272.3,Credit Card,21.14
+ORD0853,11-05-2023,CUST710,Customer_98,Female,55,Bangalore,East,PROD153,Product_114,Books,10,560.53,5605.3,Debit Card,18.18
+ORD0854,27-05-2023,CUST205,Customer_200,Other,52,Kolkata,East,PROD85,Product_157,Home Appliances,9,125.16,1126.44,Credit Card,27.11
+ORD0855,21-06-2025,CUST344,Customer_329,Other,21,Hyderabad,North,PROD145,Product_94,Fashion,10,1457.85,14578.5,UPI,52.52
+ORD0856,07-01-2025,CUST951,Customer_303,Other,64,Ahmedabad,North,PROD178,Product_187,Sports,4,1029.23,4116.92,Cash on Delivery,4.21
+ORD0857,12-07-2023,CUST806,Customer_373,Other,23,Pune,West,PROD32,Product_54,Electronics,2,919.65,1839.3,UPI,41.54
+ORD0858,17-09-2023,CUST997,Customer_74,Male,53,Ahmedabad,West,PROD154,Product_44,Home Appliances,5,1436.94,7184.7,Cash on Delivery,64.94
+ORD0859,14-01-2023,CUST709,Customer_484,Other,55,Chennai,South,PROD127,Product_126,Books,4,1973.31,7893.24,Credit Card,94.63
+ORD0860,09-04-2023,CUST725,Customer_248,Male,30,Kolkata,West,PROD12,Product_176,Beauty,4,881.91,3527.64,Net Banking,2.86
+ORD0861,05-02-2025,CUST135,Customer_176,Other,37,Chennai,South,PROD65,Product_55,Home Appliances,5,1087.53,5437.65,UPI,73.26
+ORD0862,05-06-2023,CUST114,Customer_407,Female,47,Hyderabad,South,PROD200,Product_141,Sports,6,865.74,5194.44,Cash on Delivery,70.49
+ORD0863,27-07-2024,CUST900,Customer_111,Female,23,Chennai,South,PROD199,Product_171,Home Appliances,2,1669.6,3339.2,Net Banking,55.2
+ORD0864,16-02-2024,CUST338,Customer_216,Male,20,Hyderabad,North,PROD128,Product_130,Beauty,5,819.73,4098.65,Debit Card,8.46
+ORD0865,23-05-2024,CUST173,Customer_298,Female,55,Bangalore,East,PROD139,Product_181,Home Appliances,4,1531.24,6124.96,Cash on Delivery,13.1
+ORD0866,28-11-2024,CUST402,Customer_91,Female,30,Ahmedabad,East,PROD51,Product_117,Home Appliances,8,322.96,2583.68,Cash on Delivery,50.13
+ORD0867,19-12-2023,CUST955,Customer_409,Male,23,Ahmedabad,North,PROD172,Product_37,Beauty,4,1278.14,5112.56,UPI,34.62
+ORD0868,19-05-2025,CUST348,Customer_86,Other,46,Ahmedabad,East,PROD96,Product_136,Beauty,6,652.71,3916.26,Cash on Delivery,69.9
+ORD0869,03-05-2024,CUST668,Customer_459,Male,52,Hyderabad,East,PROD138,Product_65,Toys,9,1035.62,9320.58,UPI,35.11
+ORD0870,20-05-2025,CUST293,Customer_431,Other,41,Chennai,West,PROD174,Product_164,Home Appliances,2,1168.35,2336.7,Credit Card,84.43
+ORD0871,08-12-2023,CUST104,Customer_16,Other,34,Pune,East,PROD63,Product_184,Fashion,10,379.01,3790.1,Cash on Delivery,39.29
+ORD0872,25-06-2025,CUST198,Customer_26,Other,24,Bangalore,West,PROD134,Product_90,Sports,9,525.19,4726.71,Credit Card,22.13
+ORD0873,11-07-2025,CUST771,Customer_220,Female,39,Bangalore,South,PROD45,Product_40,Beauty,3,949.87,2849.61,Credit Card,59.89
+ORD0874,08-03-2023,CUST674,Customer_376,Female,35,Bangalore,East,PROD101,Product_83,Beauty,3,1509.51,4528.53,Credit Card,11.9
+ORD0875,30-03-2023,CUST641,Customer_435,Male,25,Mumbai,North,PROD184,Product_200,Fashion,9,1383.27,12449.43,UPI,45.48
+ORD0876,04-01-2023,CUST299,Customer_42,Male,40,Kolkata,South,PROD139,Product_154,Toys,4,1186.46,4745.84,Debit Card,92.75
+ORD0877,19-04-2023,CUST463,Customer_46,Other,48,Mumbai,South,PROD139,Product_106,Electronics,9,766.89,6902.01,Credit Card,46.11
+ORD0878,06-04-2023,CUST538,Customer_343,Male,39,Kolkata,East,PROD120,Product_21,Home Appliances,10,1216.9,12169,Net Banking,59.57
+ORD0879,05-02-2023,CUST846,Customer_179,Other,65,Kolkata,East,PROD175,Product_96,Electronics,5,401.42,2007.1,Cash on Delivery,54.48
+ORD0880,25-05-2024,CUST851,Customer_262,Other,45,Kolkata,South,PROD55,Product_187,Toys,9,321.85,2896.65,Cash on Delivery,57.2
+ORD0881,28-04-2025,CUST852,Customer_41,Female,24,Hyderabad,North,PROD75,Product_143,Fashion,8,1051.79,8414.32,Net Banking,62.65
+ORD0882,17-09-2023,CUST842,Customer_50,Female,64,Kolkata,East,PROD185,Product_36,Beauty,3,1120.59,3361.77,Credit Card,43.59
+ORD0883,18-02-2025,CUST651,Customer_489,Male,25,Ahmedabad,East,PROD44,Product_64,Books,6,1165.35,6992.1,Credit Card,57.34
+ORD0884,28-02-2023,CUST906,Customer_67,Other,46,Hyderabad,South,PROD64,Product_70,Beauty,2,1677.23,3354.46,UPI,3.62
+ORD0885,01-12-2023,CUST762,Customer_415,Other,47,Pune,North,PROD117,Product_121,Books,9,412.75,3714.75,UPI,47.65
+ORD0886,15-10-2023,CUST589,Customer_46,Other,48,Delhi,East,PROD136,Product_104,Books,10,174.42,1744.2,Credit Card,45.54
+ORD0887,14-04-2024,CUST603,Customer_69,Female,30,Mumbai,East,PROD1,Product_64,Sports,2,1550.64,3101.28,Cash on Delivery,62.18
+ORD0888,21-10-2024,CUST878,Customer_189,Female,50,Bangalore,South,PROD113,Product_52,Fashion,6,1691.76,10150.56,Credit Card,11.48
+ORD0889,12-09-2023,CUST536,Customer_416,Other,40,Ahmedabad,South,PROD21,Product_192,Books,4,920.11,3680.44,Credit Card,48.46
+ORD0890,05-03-2025,CUST264,Customer_48,Male,49,Mumbai,North,PROD161,Product_3,Fashion,6,1963.05,11778.3,UPI,34.61
+ORD0891,30-08-2023,CUST556,Customer_475,Other,40,Kolkata,South,PROD82,Product_112,Home Appliances,4,190.42,761.68,UPI,36.34
+ORD0892,18-04-2024,CUST718,Customer_377,Male,31,Pune,East,PROD137,Product_195,Sports,8,728.6,5828.8,Net Banking,77.02
+ORD0893,16-06-2023,CUST169,Customer_425,Male,37,Ahmedabad,South,PROD57,Product_51,Fashion,5,292.73,1463.65,Credit Card,20.95
+ORD0894,18-07-2024,CUST664,Customer_114,Female,50,Chennai,North,PROD189,Product_32,Sports,2,374.22,748.44,Net Banking,32.39
+ORD0895,27-12-2023,CUST875,Customer_458,Male,64,Chennai,West,PROD145,Product_190,Books,8,204.93,1639.44,Debit Card,12.6
+ORD0896,28-07-2023,CUST987,Customer_211,Female,37,Kolkata,East,PROD111,Product_123,Electronics,5,1726.06,8630.3,Net Banking,84.1
+ORD0897,02-03-2024,CUST296,Customer_68,Male,21,Ahmedabad,East,PROD196,Product_56,Books,3,875.92,2627.76,Debit Card,56.32
+ORD0898,19-05-2025,CUST692,Customer_452,Male,42,Pune,East,PROD111,Product_135,Sports,2,1285.37,2570.74,Cash on Delivery,58.74
+ORD0899,04-02-2023,CUST360,Customer_290,Other,51,Hyderabad,South,PROD186,Product_44,Beauty,9,1516.27,13646.43,Credit Card,58.28
+ORD0900,11-01-2024,CUST945,Customer_390,Female,30,Delhi,East,PROD200,Product_32,Home Appliances,2,826.6,1653.2,Cash on Delivery,72.91
+ORD0901,02-09-2024,CUST243,Customer_393,Female,21,Kolkata,South,PROD75,Product_20,Sports,1,1375.44,1375.44,Cash on Delivery,8.22
+ORD0902,22-05-2023,CUST505,Customer_319,Other,25,Ahmedabad,South,PROD152,Product_168,Fashion,3,898.87,2696.61,Cash on Delivery,42.47
+ORD0903,18-10-2024,CUST831,Customer_388,Female,30,Hyderabad,West,PROD168,Product_135,Electronics,5,1787.86,8939.3,Credit Card,68.12
+ORD0904,31-12-2024,CUST406,Customer_206,Other,60,Bangalore,East,PROD194,Product_92,Beauty,5,341.27,1706.35,Credit Card,57.82
+ORD0905,04-09-2023,CUST510,Customer_28,Other,62,Delhi,South,PROD71,Product_161,Electronics,4,838.11,3352.44,Credit Card,2.15
+ORD0906,09-06-2025,CUST313,Customer_38,Other,18,Ahmedabad,North,PROD157,Product_199,Toys,8,1699.04,13592.32,UPI,69.26
+ORD0907,07-12-2023,CUST451,Customer_338,Male,57,Bangalore,East,PROD45,Product_124,Sports,8,1959.86,15678.88,Credit Card,75.25
+ORD0908,11-01-2023,CUST787,Customer_335,Female,47,Ahmedabad,East,PROD191,Product_71,Home Appliances,6,1940.69,11644.14,UPI,84.48
+ORD0909,05-05-2025,CUST658,Customer_258,Male,37,Pune,West,PROD6,Product_129,Fashion,7,330.93,2316.51,Debit Card,66.11
+ORD0910,01-04-2025,CUST875,Customer_258,Female,42,Bangalore,East,PROD70,Product_176,Electronics,8,1237.19,9897.52,Debit Card,43.99
+ORD0911,06-09-2023,CUST149,Customer_197,Male,54,Pune,East,PROD196,Product_196,Books,6,659.7,3958.2,Debit Card,83.08
+ORD0912,27-07-2025,CUST708,Customer_487,Male,62,Kolkata,West,PROD123,Product_107,Home Appliances,1,1375.79,1375.79,Debit Card,95.86
+ORD0913,25-06-2024,CUST614,Customer_180,Other,32,Bangalore,South,PROD112,Product_185,Sports,7,946.42,6624.94,Cash on Delivery,52.33
+ORD0914,30-03-2023,CUST407,Customer_87,Other,28,Pune,North,PROD190,Product_135,Electronics,7,264.66,1852.62,Debit Card,87.2
+ORD0915,08-08-2024,CUST454,Customer_307,Male,65,Mumbai,West,PROD19,Product_37,Fashion,5,406.88,2034.4,Cash on Delivery,81.88
+ORD0916,04-08-2023,CUST360,Customer_276,Other,19,Pune,North,PROD78,Product_67,Beauty,8,934.19,7473.52,Debit Card,34.62
+ORD0917,02-03-2023,CUST607,Customer_328,Female,52,Pune,East,PROD181,Product_61,Books,10,1597.14,15971.4,Cash on Delivery,3.3
+ORD0918,28-03-2025,CUST716,Customer_409,Female,65,Chennai,South,PROD72,Product_40,Toys,10,1702.82,17028.2,Credit Card,6.57
+ORD0919,18-05-2025,CUST631,Customer_392,Female,65,Delhi,East,PROD23,Product_87,Fashion,10,1117.48,11174.8,Credit Card,97.91
+ORD0920,22-09-2024,CUST801,Customer_229,Female,43,Kolkata,West,PROD158,Product_177,Beauty,3,914.76,2744.28,Debit Card,49.57
+ORD0921,12-03-2023,CUST184,Customer_448,Female,19,Hyderabad,West,PROD72,Product_181,Books,10,366.02,3660.2,Credit Card,4.58
+ORD0922,21-02-2023,CUST729,Customer_434,Male,23,Ahmedabad,North,PROD29,Product_79,Home Appliances,5,1963.57,9817.85,Cash on Delivery,55.3
+ORD0923,08-12-2023,CUST221,Customer_363,Female,24,Bangalore,West,PROD122,Product_115,Books,2,1090.47,2180.94,Debit Card,48.12
+ORD0924,29-01-2025,CUST849,Customer_480,Other,58,Bangalore,South,PROD181,Product_45,Fashion,7,903.66,6325.62,Debit Card,13.61
+ORD0925,09-12-2023,CUST418,Customer_33,Other,35,Kolkata,South,PROD103,Product_16,Books,6,1615.47,9692.82,Net Banking,32.46
+ORD0926,10-08-2025,CUST871,Customer_390,Female,32,Chennai,East,PROD74,Product_42,Books,10,1309.26,13092.6,Cash on Delivery,84.63
+ORD0927,31-10-2023,CUST737,Customer_271,Male,63,Delhi,East,PROD53,Product_23,Sports,4,1929.3,7717.2,Debit Card,36.49
+ORD0928,13-09-2025,CUST558,Customer_330,Other,48,Hyderabad,West,PROD169,Product_19,Beauty,4,1253.79,5015.16,Credit Card,44.78
+ORD0929,03-05-2023,CUST740,Customer_314,Female,57,Bangalore,West,PROD142,Product_12,Fashion,8,767.05,6136.4,UPI,52.2
+ORD0930,05-06-2024,CUST900,Customer_248,Other,35,Chennai,North,PROD47,Product_66,Electronics,6,327.33,1963.98,Cash on Delivery,58.74
+ORD0931,27-01-2024,CUST761,Customer_423,Male,49,Kolkata,South,PROD52,Product_172,Electronics,9,1203.74,10833.66,Net Banking,8.75
+ORD0932,24-07-2023,CUST683,Customer_164,Male,35,Mumbai,South,PROD103,Product_178,Books,1,964.07,964.07,Cash on Delivery,95.15
+ORD0933,03-11-2024,CUST961,Customer_347,Other,41,Chennai,North,PROD144,Product_93,Beauty,4,856.76,3427.04,Cash on Delivery,84.84
+ORD0934,02-11-2023,CUST159,Customer_46,Other,58,Hyderabad,West,PROD135,Product_30,Toys,10,1035.58,10355.8,Credit Card,11.85
+ORD0935,13-06-2024,CUST233,Customer_463,Female,53,Chennai,North,PROD192,Product_34,Books,8,1288.58,10308.64,Cash on Delivery,65.99
+ORD0936,27-08-2025,CUST162,Customer_176,Male,34,Delhi,East,PROD30,Product_200,Books,6,554.77,3328.62,Credit Card,7.95
+ORD0937,28-09-2025,CUST969,Customer_47,Other,60,Pune,East,PROD100,Product_168,Electronics,8,971.63,7773.04,Net Banking,77.55
+ORD0938,04-12-2024,CUST487,Customer_451,Male,39,Kolkata,West,PROD178,Product_41,Sports,8,298.06,2384.48,Cash on Delivery,63.06
+ORD0939,07-05-2023,CUST686,Customer_437,Male,37,Ahmedabad,South,PROD111,Product_121,Sports,6,1407.32,8443.92,Credit Card,23.68
+ORD0940,22-09-2025,CUST934,Customer_476,Male,22,Hyderabad,South,PROD69,Product_116,Fashion,2,309.87,619.74,Cash on Delivery,34.92
+ORD0941,11-12-2024,CUST783,Customer_451,Female,25,Mumbai,East,PROD186,Product_36,Beauty,1,1301.87,1301.87,Net Banking,65.01
+ORD0942,22-03-2023,CUST127,Customer_243,Male,54,Mumbai,South,PROD179,Product_79,Toys,5,904.14,4520.7,Debit Card,65.74
+ORD0943,30-11-2023,CUST523,Customer_167,Male,24,Delhi,West,PROD127,Product_187,Beauty,7,1919.63,13437.41,Debit Card,2.93
+ORD0944,20-06-2023,CUST393,Customer_415,Other,56,Pune,North,PROD82,Product_104,Fashion,7,372.12,2604.84,Net Banking,21.58
+ORD0945,08-04-2023,CUST483,Customer_21,Other,40,Mumbai,West,PROD139,Product_155,Fashion,7,1476.89,10338.23,Cash on Delivery,90.24
+ORD0946,16-05-2025,CUST721,Customer_478,Female,27,Pune,West,PROD36,Product_173,Fashion,8,152.18,1217.44,Credit Card,53.69
+ORD0947,28-09-2023,CUST533,Customer_29,Other,58,Chennai,West,PROD155,Product_85,Electronics,1,443.45,443.45,Cash on Delivery,88.22
+ORD0948,01-11-2023,CUST489,Customer_355,Female,38,Hyderabad,East,PROD195,Product_88,Home Appliances,9,742.1,6678.9,Debit Card,4.06
+ORD0949,12-03-2025,CUST908,Customer_471,Female,38,Ahmedabad,North,PROD48,Product_113,Beauty,2,421.47,842.94,Debit Card,50.27
+ORD0950,23-03-2023,CUST901,Customer_353,Other,63,Chennai,South,PROD11,Product_184,Home Appliances,8,147.89,1183.12,Debit Card,97.12
+ORD0951,05-12-2023,CUST453,Customer_475,Other,55,Hyderabad,West,PROD24,Product_182,Beauty,7,669.03,4683.21,Cash on Delivery,13.14
+ORD0952,19-12-2023,CUST899,Customer_370,Female,20,Mumbai,West,PROD89,Product_48,Toys,5,1964.34,9821.7,Debit Card,25.04
+ORD0953,13-02-2023,CUST933,Customer_403,Other,51,Bangalore,North,PROD23,Product_13,Books,5,1613.87,8069.35,Net Banking,39.13
+ORD0954,01-02-2025,CUST983,Customer_390,Female,59,Pune,South,PROD26,Product_167,Electronics,1,1594.61,1594.61,Debit Card,78.62
+ORD0955,25-09-2023,CUST676,Customer_401,Female,50,Delhi,South,PROD176,Product_175,Toys,2,1965.22,3930.44,Cash on Delivery,26.43
+ORD0956,16-10-2024,CUST264,Customer_365,Female,41,Hyderabad,West,PROD131,Product_174,Sports,6,1731.32,10387.92,Net Banking,2.71
+ORD0957,11-12-2024,CUST532,Customer_380,Male,27,Ahmedabad,West,PROD103,Product_164,Electronics,7,1727.49,12092.43,UPI,63.77
+ORD0958,14-10-2024,CUST131,Customer_99,Female,54,Bangalore,North,PROD162,Product_19,Sports,4,455.13,1820.52,UPI,82.33
+ORD0959,28-07-2024,CUST289,Customer_408,Other,36,Pune,West,PROD190,Product_35,Sports,6,1122.08,6732.48,Debit Card,34.45
+ORD0960,27-01-2025,CUST685,Customer_364,Other,54,Pune,East,PROD176,Product_93,Beauty,3,1531.85,4595.55,Cash on Delivery,6.89
+ORD0961,27-05-2023,CUST121,Customer_432,Male,37,Kolkata,West,PROD140,Product_47,Sports,1,1767.02,1767.02,Cash on Delivery,17.13
+ORD0962,08-03-2025,CUST673,Customer_186,Female,40,Pune,South,PROD194,Product_37,Beauty,5,1065.49,5327.45,Debit Card,28.27
+ORD0963,28-02-2025,CUST653,Customer_163,Male,30,Chennai,South,PROD190,Product_20,Home Appliances,8,857.96,6863.68,Debit Card,67.7
+ORD0964,30-06-2025,CUST213,Customer_354,Male,57,Hyderabad,South,PROD159,Product_5,Home Appliances,9,1362.17,12259.53,Net Banking,59.71
+ORD0965,24-04-2025,CUST431,Customer_287,Male,24,Delhi,East,PROD20,Product_15,Sports,3,670,2010,UPI,98.34
+ORD0966,01-06-2025,CUST887,Customer_380,Other,55,Bangalore,South,PROD80,Product_80,Sports,2,313.6,627.2,UPI,6.48
+ORD0967,23-09-2024,CUST865,Customer_469,Other,49,Ahmedabad,East,PROD194,Product_194,Sports,1,496.16,496.16,Debit Card,53.3
+ORD0968,12-05-2024,CUST961,Customer_305,Male,29,Delhi,East,PROD144,Product_111,Toys,2,1233.32,2466.64,UPI,6.31
+ORD0969,07-04-2025,CUST161,Customer_19,Male,18,Delhi,North,PROD166,Product_124,Home Appliances,6,979.87,5879.22,Cash on Delivery,96.22
+ORD0970,26-11-2024,CUST779,Customer_325,Male,42,Ahmedabad,South,PROD71,Product_18,Fashion,4,523.83,2095.32,UPI,34.04
+ORD0971,26-09-2025,CUST887,Customer_489,Other,21,Kolkata,West,PROD159,Product_133,Home Appliances,4,266.76,1067.04,UPI,69.32
+ORD0972,14-02-2023,CUST579,Customer_29,Male,56,Delhi,North,PROD144,Product_3,Fashion,7,544.98,3814.86,UPI,82.84
+ORD0973,24-11-2024,CUST319,Customer_181,Female,64,Pune,East,PROD114,Product_195,Electronics,1,1661.99,1661.99,Credit Card,63.25
+ORD0974,05-02-2024,CUST975,Customer_328,Male,24,Ahmedabad,South,PROD168,Product_138,Beauty,7,126.47,885.29,Cash on Delivery,68.07
+ORD0975,22-05-2025,CUST127,Customer_385,Other,20,Delhi,East,PROD15,Product_19,Home Appliances,10,657.7,6577,Debit Card,16.69
+ORD0976,27-07-2023,CUST619,Customer_56,Other,36,Kolkata,West,PROD94,Product_168,Beauty,1,913.35,913.35,UPI,30.33
+ORD0977,23-11-2023,CUST487,Customer_8,Male,55,Hyderabad,South,PROD106,Product_36,Books,1,992.96,992.96,Credit Card,67.33
+ORD0978,11-02-2023,CUST705,Customer_298,Male,64,Mumbai,West,PROD38,Product_148,Fashion,1,651.52,651.52,Net Banking,85.25
+ORD0979,20-09-2023,CUST148,Customer_481,Male,52,Delhi,West,PROD31,Product_115,Beauty,1,1470.96,1470.96,Cash on Delivery,15.39
+ORD0980,02-09-2025,CUST694,Customer_177,Male,20,Pune,South,PROD6,Product_14,Books,1,925.3,925.3,Credit Card,84.45
+ORD0981,03-02-2025,CUST336,Customer_166,Other,19,Chennai,East,PROD118,Product_64,Home Appliances,5,333.1,1665.5,UPI,57.7
+ORD0982,28-02-2025,CUST742,Customer_377,Other,20,Kolkata,West,PROD45,Product_56,Toys,2,591.66,1183.32,Cash on Delivery,27.52
+ORD0983,13-08-2024,CUST464,Customer_360,Female,45,Delhi,West,PROD7,Product_182,Fashion,7,552.05,3864.35,UPI,85.73
+ORD0984,09-06-2023,CUST770,Customer_484,Male,37,Hyderabad,East,PROD112,Product_165,Electronics,6,1260.1,7560.6,UPI,87.69
+ORD0985,01-05-2024,CUST979,Customer_103,Female,48,Hyderabad,West,PROD57,Product_176,Sports,3,1380.96,4142.88,Credit Card,78.28
+ORD0986,28-04-2023,CUST591,Customer_428,Female,30,Mumbai,South,PROD151,Product_94,Toys,3,940.88,2822.64,Cash on Delivery,94.94
+ORD0987,02-03-2024,CUST288,Customer_457,Other,53,Delhi,North,PROD29,Product_139,Fashion,3,1624.05,4872.15,Net Banking,46.72
+ORD0988,15-06-2023,CUST934,Customer_23,Female,58,Bangalore,East,PROD33,Product_25,Fashion,5,1279.17,6395.85,Credit Card,20.14
+ORD0989,21-12-2023,CUST253,Customer_435,Female,18,Ahmedabad,South,PROD16,Product_7,Fashion,8,286.74,2293.92,Credit Card,17.35
+ORD0990,24-07-2025,CUST826,Customer_180,Other,30,Pune,South,PROD104,Product_193,Sports,6,154.96,929.76,Cash on Delivery,85.47
+ORD0991,15-12-2024,CUST795,Customer_400,Female,23,Delhi,North,PROD57,Product_3,Home Appliances,5,682.2,3411,UPI,24
+ORD0992,12-11-2023,CUST449,Customer_310,Male,37,Ahmedabad,East,PROD81,Product_57,Home Appliances,1,802.78,802.78,Cash on Delivery,62.95
+ORD0993,29-01-2025,CUST196,Customer_141,Other,23,Kolkata,West,PROD156,Product_196,Electronics,6,1645.39,9872.34,Net Banking,41.55
+ORD0994,08-07-2025,CUST856,Customer_337,Female,55,Mumbai,North,PROD193,Product_10,Home Appliances,5,1315.98,6579.9,UPI,81.95
+ORD0995,11-07-2023,CUST480,Customer_93,Other,57,Kolkata,West,PROD194,Product_6,Home Appliances,2,1760.99,3521.98,Net Banking,69.32
+ORD0996,24-07-2025,CUST165,Customer_169,Other,51,Pune,East,PROD88,Product_33,Fashion,8,762.15,6097.2,UPI,47.21
+ORD0997,05-02-2023,CUST161,Customer_346,Other,25,Kolkata,East,PROD150,Product_107,Electronics,1,515.7,515.7,Net Banking,30.12
+ORD0998,15-03-2023,CUST244,Customer_173,Other,18,Kolkata,West,PROD129,Product_192,Toys,4,770.19,3080.76,UPI,41.17
+ORD0999,24-03-2024,CUST190,Customer_386,Female,44,Chennai,North,PROD165,Product_13,Home Appliances,9,1884.22,16957.98,Debit Card,67.22
+ORD1000,06-06-2024,CUST401,Customer_330,Other,58,Mumbai,South,PROD193,Product_197,Beauty,6,145.96,875.76,UPI,37.32
