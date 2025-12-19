@@ -71,5 +71,5 @@ The file `ecommerce_analysis_queries.sql` includes all key analytical queries su
 ## 📬 Author
 👤 **Anmol Raj**  
 📧 *Data Analyst | SQL | Python | EXCEL | Tableau*  
-🔗 [LinkedIn](https://www.linkedin.com/in/anmol-raj-dev/) | [GitHub](https://github.com/anmolraj530)
+🔗 [LinkedIn](https://www.linkedin.com/in/anmolraj530/) | [GitHub](https://github.com/anmolraj530)
 
